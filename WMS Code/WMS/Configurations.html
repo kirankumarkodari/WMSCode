@@ -1,0 +1,326 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Work Monitoring System</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta http-equiv="cache-control" content="no-cache" />
+
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.css" rel="stylesheet" type="text/css">
+    <link href="css/header.css" rel="stylesheet" type="text/css">
+    <link href="css/Configurations.css" rel="stylesheet" type="text/css">
+
+
+    <script type="text/javascript" src="js/jquery.min.js"></script>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+    <!-- Velocity -->
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/velocity/1.5.0/velocity.min.js'></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/velocity/1.5.0/velocity.ui.min.js'></script>
+    <!-- Velocity -->
+    <script type="text/javascript" src="js/header.js"></script> 
+    <script type="text/javascript" src="js/Configurations.js"></script>
+    <script type="text/javascript">
+         function checkSpcialChar(event){
+             if (!((event.keyCode >= 65) && (event.keyCode <= 90) || (event.keyCode == 32) || (event.keyCode == 13) || (event.keyCode == 45) || (event.keyCode == 95) || (event.keyCode >= 97) && (event.keyCode <= 122) || (event.keyCode >= 48) && (event.keyCode <= 57))) {
+               event.returnValue = false;
+               return;
+            }
+            event.returnValue = true;
+         }
+         function checkIsNumber(event)
+         {
+             if (!((event.keyCode >= 48) && (event.keyCode <= 57)) || (event.keyCode == 13)) {
+                 event.returnValue = false;
+                 return;
+             }
+             event.returnValue = true;
+         }
+    </script>
+</head>
+<body>
+    <div class="container-fluid">
+          <!-- Header Div End -->
+     <div id="header_row">
+           <!-- Normal header div Start -->
+           <div id="Normal_header_div" class="hidden-xs hidden-sm bg_img_div"> 
+            <div id="normal_title_text" class="title_text">
+                       <i class="fa fa-eye" style="font-size:1.5em;" aria-hidden="true"></i>  Work Monitoring System
+            </div>
+          </div>
+          <div id="normal_navigation_div" class="hidden-sm hidden-xs">
+             <nav class="navbar navbar-default">
+                <ul class="nav navbar-nav navbar-center" id="Normal_nav_bar">
+                            <li class="dropdown" id="menu-item-images">
+                            <a href="#" class="dropdown-toggle gradient_fill" data-toggle="dropdown" role="button" aria-expanded="false" > <i class="fa fa-picture-o" aria-hidden="true" style="font-size:1.5em;"></i>IMAGES <span class="caret"></span></a>
+                            <ul class="dropdown-menu" role="menu">
+                                <li><a href="Index.html" class="gradient_fill" alt="Live">LIVE</a></li>
+                                <li><a href="Old_Images.html" class="gradient_fill" alt="Old">OLD</a></li>
+                            </ul>
+                            </li>
+
+                            <li class="dropdown" id="menu-item-timelapse">
+                            <a href="#" class="dropdown-toggle gradient_fill" data-toggle="dropdown" role="button" aria-expanded="false" > <i class="fa fa-video-camera" aria-hidden="true" style="font-size:1.5em;"></i>TIMELAPSE <span class="caret"></span></a>
+                            <ul class="dropdown-menu" role="menu">
+                                <li><a href="Live-timelapse.html" class="gradient_fill" alt="Live">LIVE</a></li>
+                                <li><a href="Old_Timelapse.html" class="gradient_fill" alt="Old">OLD</a></li>
+                            </ul>
+                            </li>
+                             <li id="menu-item-configurations active" class="active"><a href="#" class="gradient_fill" alt="Configurations"><i class="fa fa-cog" aria-hidden="true" style="font-size:1.5em;"></i>CONFIGURATIONS</a></li>
+                            <li id="menu-item-help"><a href="Help.html" class="gradient_fill" alt="Help"><i class="fa fa-info" aria-hidden="true" style="font-size:1.5em;"></i>HELP</a></li>
+                </ul>
+               </nav>
+            </div>
+          <!-- Normal Header Div End -->
+             <!-- To put Work Monitoring System Title and as well as navigation in the Title bar it self for Mobiles -->
+                <nav class="navbar navbar-default hidden-md hidden-lg" id="main-menu-xs" style="z-index:1010">
+                    <div class="navbar-header">
+                      <button type="button" class="navbar-toggle" style="float:left;margin-left:10px;" id="sidebar-toggler">
+                          <span class="sr-only">Toggle navigation</span>
+                          <span class="icon-bar"></span>
+                          <span class="icon-bar"></span>
+                          <span class="icon-bar"></span>
+                       </button>
+                       <div id="mobile_title_text" class="title_text">
+                          <i class="fa fa-eye" style="font-size:1em;" aria-hidden="true"></i>Work Monitoring System
+                       </div>
+                    </div>
+                </nav>
+                <div id="side-bar" class="bar-collapsed">
+                    <div  class="navbar-collapse">
+                        <ul class="nav navbar-nav navbar-left">
+                            <li class="dropdown" id="menu-item-images">
+                                <a href="#" class="dropdown-toggle gradient_fill" data-toggle="dropdown" role="button" aria-expanded="false"> <i class="fa fa-picture-o" aria-hidden="true" style="font-size:1.5em;"></i>IMAGES <span class="caret"></span></a>
+                                <ul class="dropdown-menu" role="menu">
+                                    <li><a href="Index.html" class="gradient_fill" alt="Live">LIVE</a></li>
+                                    <li><a href="Old_Images.html" class="gradient_fill" alt="Old">OLD</a></li>
+                                </ul>
+                            </li>
+
+                            <li class="dropdown" id="menu-item-timelapse">
+                                <a href="#" class="dropdown-toggle gradient_fill" data-toggle="dropdown" role="button" aria-expanded="false"> <i class="fa fa-video-camera" aria-hidden="true" style="font-size:1.5em;"></i>TIMELAPSE <span class="caret"></span></a>
+                                <ul class="dropdown-menu" role="menu">
+                                    <li><a href="Live-timelapse.html" class="gradient_fill" alt="Live">LIVE</a></li>
+                                    <li><a href="Old_Timelapse.html" class="gradient_fill" alt="Old">OLD</a></li>
+                                </ul>
+                            </li>
+                            <li id="menu-item-configurations active" class="active"><a href="#" class="gradient_fill" alt="Configurations"><i class="fa fa-cog" aria-hidden="true" style="font-size:1.5em;"></i>CONFIGURATIONS</a></li>
+                            <li id="menu-item-help"><a href="Help.html" class="gradient_fill" alt="Help"><i class="fa fa-info" aria-hidden="true" style="font-size:1.5em;"></i>HELP</a></li>
+
+                        </ul>
+                    </div>
+                </div>
+            <!-- This navigation will be displayed only on Md,Lg screens -->
+    </div>
+  <!-- Header Div End -->
+
+  <!-- Add Camera Modal start -->
+           <div class="modal" data-easein="slideRightIn" tabindex="-1" id="addcamerapopup_modal" role="dialog">
+            <div class="modal-dialog modal">
+                <div class="modal-header">
+                    <i class="fa fa-camera" aria-hidden="true" style="font-size: 3.0em;color: #14295a;"></i>
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                </div>
+                <!-- Modal content-->
+                <div class="modal-content">
+                       <div class="modal-body">
+                              
+                           <div id="add_form" class="Camera_form">
+                               <form id="addForm">
+                                <fieldset>
+                                    <div class="form-group">
+                                     <label for="Camname">Camera Name:</label>
+                                     <input type="text" onkeypress="return checkSpcialChar(event)"  maxlength="16" name="Camname" class="field Cam_name" required pattern="[a-zA-Z0-9]+" title="Camera Name should have numbers and alphabets only" value="" />
+                                     <p class="camName_minlen"> Camera Name should have minimum of 3 characters  </p>
+                                     </div>
+                                   <div class="form-group">
+                                     <label class="CamIMSI_lbl" for="CamIMSI">Camera IMSI:</label>
+                                     <input type="text" onkeypress="return checkIsNumber(event)"  class="field IMSI_number"  name="CamIMSI" maxlength="16" pattern="\d*" title="IMSI should have numbers only" value=""/>
+                                     <p class="camIMSI_err"> Camera IMSI already Exists </p>
+                                     <p class="camIMSI_minlen"> Camera IMSI should have minimum of 16 digits </p>
+                                   </div>
+                                    
+                               </fieldset>
+                               <input type="submit" name="submit_btn" id="add_btn" class="add_btn_class" value="Add">
+                              </form>
+                           </div>  
+                        </div>
+                 </div>
+            </div>
+          </div>
+      <!-- Add Camera Modal start End -->
+
+
+        <!-- Delete Confirm Modal start -->
+           <div class="modal" data-easein="slideRightIn" tabindex="-1" id="delete_confirm_modal" role="dialog">
+            <div class="modal-dialog modal">
+                <div class="modal-header">
+                    Confirm
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                </div>
+                <!-- Modal content-->
+                <div class="modal-content">
+                       <div class="modal-body">
+                              
+                          <div class="error_msg">
+                            <i class="fa fa-exclamation-triangle" aria-hidden="true" style="color:#ff6b6c;font-size: 2.0em;margin-right: 10px;"></i> Are You sure you want to delete this Camera ?
+                          </div>
+                          <div class="delete_btns">
+                              <button id="YES_btn" class="delete_btn" type="button" class="button" onclick="">YES</button>
+                            <button id="NO_btn" class="delete_btn" type="button" class="button" onclick="">NO</button>
+                            
+                          </div>
+                        </div>
+                 </div>
+            </div>
+          </div>
+      <!-- Delete Confirm Modal start End -->
+
+        <!-- Save Confirm Modal start -->
+        <div class="modal" data-easein="slideRightIn" tabindex="-1" id="save_confirm_modal" role="dialog">
+            <div class="modal-dialog modal">
+                <div class="modal-header">
+                    Confirm
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                </div>
+                <!-- Modal content-->
+                <div class="modal-content">
+                    <div class="modal-body">
+
+                        <div class="error_msg">
+                             Are You sure you want to Save the changes to this Camera ?
+                        </div>
+                        <div class="delete_btns">
+                            <button id="YES_btn" class="delete_btn" type="button" class="button" onclick="">YES</button>
+                            <button id="NO_btn" class="delete_btn" type="button" class="button" onclick="">NO</button>
+                           
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Save Confirm Modal start End -->
+
+        <!-- Sucess Modal start -->
+        <div class="modal" tabindex="-1" id="Sucess_feedback_modal" role="dialog">
+            <div class="modal-dialog modal">
+                <div class="modal-content">
+                    <div class="modal-body">
+
+                        <div class="tickmark_div">
+                            <i class="fa fa-check" aria-hidden="true" style="color: white;font-size: 3.0em;margin-top: 10px;padding: 20px;border-radius: 50%;background-color: #0cb10c;"></i> 
+                            <div class="sucess_txt"> Success </div>
+                        </div>
+                        <div class="feedback_msg">
+                            Camera added sucessfully ..!!
+                        </div>
+                        <div class="ok_btn">
+                            OK
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Sucess  Modal  End -->
+
+        <!-- Fail Modal start -->
+        <div class="modal" tabindex="-1" id="Fail_feedback_modal" role="dialog">
+            <div class="modal-dialog modal">
+                <div class="modal-content">
+                    <div class="modal-body">
+
+                        <div class="tickmark_div">
+                            <i class="fa fa-times" aria-hidden="true" style="color: white;font-size: 3.0em;margin-top: 10px;padding: 20px;border-radius: 50%;background-color: red;"></i>
+                            <div class="sucess_txt"> Failed </div>
+                        </div>
+                        <div class="ok_btn">
+                            OK
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Fail  Modal  End -->
+
+
+         <div id="Cameras-container">
+          <div id="AddCamerarow" class="row">
+            <div class="Group_add_row">
+                <div class="icon_row">
+                    <i class="fa fa-plus-circle" style="font-size: 2em; color: #4d97e6;" aria-hidden="true"></i>
+                </div>
+                <div class="text_row">
+                    <p> Add camera </p>
+                </div>
+            </div>
+           
+          </div>
+          <div id="Cameras-row" class="row">
+          <div id="Cam1" class="col-lg-6  col-md-5   col-sm-12   col-xs-12">
+            <div class="Camera_div">
+              <div class="Camera_title_bar">
+                <p class="Camera_id"> Cam1 </p>
+                <div class="delete_icon"><i class="fa fa-trash" aria-hidden="true" style="font-size:2.0em; 
+                color: #500707;"></i></div>
+              </div>
+              <div id="form" class="Camera_form">
+               <form>
+                <fieldset>
+                    <div class="form-group">
+                     <label for="Camname">Camera Name</label>
+                     <input type="text" name="Camname" class="field Cam_name" required pattern="[a-zA-Z0-9]+" title="Camera Name should have numbers and alphabets only" value="" />
+                   </div>
+                   <div class="form-group">
+                     <label class="CamIMSI_lbl" for="CamIMSI">Camera IMSI</label>
+                     <input type="text" class="field IMSI_number" id="placePhone" name="CamIMSI" maxlength="16" pattern="\d*" title="IMSI should have numbers only" value=""/>
+                     <p class="camIMSI_err"> Camera IMSI already Exists </p>
+                   </div>
+               </fieldset>
+               <input type="submit" name="submit_btn" class="submit_btn_class" value="Save">
+              </form>
+             </div>
+           </div>
+           </div>
+
+
+
+            <div id="Cam1" class="col-lg-6  col-md-5   col-sm-12   col-xs-12">
+            <div class="Camera_div">
+              <div class="Camera_title_bar">
+                <p class="Camera_id"> Cam1 </p>
+                <div class="delete_icon"><i class="fa fa-trash" aria-hidden="true" style="font-size:2.0em; 
+                color: #500707;"></i></div>
+              </div>
+              <div id="form" class="Camera_form">
+               <form>
+                <fieldset>
+                    <div class="form-group">
+                     <label for="Camname">Camera Name</label>
+                     <input type="text" name="Camname" class="field Cam_name" required pattern="[a-zA-Z0-9]+" title="Camera Name should have numbers and alphabets only" value="IoT" />
+                   </div>
+                   <div class="form-group">
+                     <label class="CamIMSI_lbl" for="CamIMSI">Camera IMSI</label>
+                     <input type="text" class="field IMSI_number" id="placePhone" name="CamIMSI" maxlength="16" pattern="\d*" title="IMSI should have numbers only" value="040506078925"/>
+                     <p class="camIMSI_err"> Camera IMSI already Exists </p>
+                   </div>
+               </fieldset>
+               <input type="submit" name="submit_btn" class="submit_btn_class" value="Save">
+              </form>
+             </div>
+           </div>
+           </div>
+
+
+
+
+
+
+          </div><!-- End of Cameras_row Div -->
+         </div> <!-- End of Container-fluid -->
+         </div>
+
+</body>
+</html>
+

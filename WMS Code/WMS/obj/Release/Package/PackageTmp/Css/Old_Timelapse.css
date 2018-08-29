@@ -1,0 +1,418 @@
+.navbar{
+    margin-bottom:5px;
+}
+
+
+
+/* Carousel-Styles End here */
+
+/* container , Camera-div , Camera Styles */
+.Cam_name
+{
+	display: inline-block;
+	margin-right: 5%;
+	font-weight: 600;
+	font-size: 16px;
+	margin-left: 3%;
+	color: #07ABA0;
+}
+
+.Cam_updated_time {
+    display: inline-block;
+    font-weight: 600;
+    font-size: 13px;
+    margin-left: 2px;
+    margin-top: 3px;
+    color: #A5B5B6;
+}
+
+.Camera_details
+{
+	border: 2px solid lightgray;
+	padding-top: 5px;
+}
+.Vedio_div
+{
+	margin-top: 0.5px;
+	border-radius: 4px;
+}
+.Idle_sts
+{
+	color: lightgray;
+}
+.active_sts
+{
+	color:#5ebc48 ;
+}
+.Inactive_sts
+{
+	color:#F44336 ;
+}
+.Cam_sts
+{
+	margin-right: 6px;
+	font-size: 0.8em;
+}
+.camera
+{
+	width:92%;
+	margin: 0 auto;
+}
+.Camera_div
+{
+
+	padding-left: 5px;
+	padding-right: 15px;
+   /* border-right: 2px solid lightgray;*/
+
+}
+.row
+{
+	margin-left:0px;
+	margin-right: 0px;
+}
+/* Image Thumbnails Container Styles start */
+.thumbnail_container
+{
+	position: relative;
+	
+	background: linear-gradient(to top right, #7474bf, #348ac7);
+	background:transparent;
+	-webkit-box-shadow: -1px 2px 17px 0px rgba(115,105,115,0.65);
+    -moz-box-shadow: -1px 2px 17px 0px rgba(115,105,115,0.65);
+    box-shadow: -1px 2px 17px 0px rgba(115,105,115,0.65);
+    opacity: 0.93;
+    color: #6b6868;
+    font-weight: 400;
+    height:auto;
+    max-height: 570px;
+    overflow-y: scroll;
+    border-left: 5px solid lightgray;
+    border-top:5px solid lightgray;
+}
+
+
+.col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-xs-1, .col-xs-10, .col-xs-11, .col-xs-12, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9 {
+    padding-right: 3px;
+}
+td, th {
+    padding: 0;
+    text-align: center;
+    cursor: pointer;
+
+}
+
+.img-thumbnail {
+    display: inline-block;
+    width: 90%;
+    height: auto;
+    padding: 2px;
+    line-height: 1.42857143;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 2px;
+    -webkit-transition: all .2s ease-in-out;
+    -o-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+}
+
+#thumbnails_table
+{
+	margin-top: 8px;
+}
+#thumbnails_table p
+{
+	margin:0px;
+}
+#thumbnails_table td
+{
+	padding-top: .8em;
+    padding-bottom: .5em;
+}
+#thumbnails_table tr
+{
+	border-bottom: 2px solid lightgray;
+}
+
+
+
+#_container
+{
+	padding-top: 5px;
+}
+/* Styles for Dropdown */
+.CamSel_div .btn {
+    cursor: default;
+    background-color: #FFF;
+    border-radius: 4px;
+    text-align: left;
+}
+
+.CamSel_div .caret {
+    position: absolute;
+    right: 16px;
+    top: 16px;
+}
+
+.CamSel_div .btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active, .open .dropdown-toggle.btn-default {
+    background-color: #FFF;    
+}
+.CamSel_div button{
+    cursor:pointer;
+}
+
+.CamSel_div .btn-group.open .dropdown-toggle {
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 8px rgba(102, 175, 233, 0.6)
+}
+
+.CamSel_div .btn-group {width: 100%}
+.CamSel_div .dropdown-menu {width: 100%;}
+.CamSel_div .dropdown-menu>li>a
+{
+	padding: 7px;
+}
+.CamSel_div .dropdown-menu>li>a
+{
+    font-size: 13px;
+    font-weight: 500;
+    color: #A2A2A2;
+}
+.CamSel_div button
+{  font-size: 13px;
+    font-weight: 500;
+    color: #A2A2A2;
+
+}
+.CamSel_div .dropdown-menu>li>a:hover
+{
+	background-color: #0f5e83;
+	color: white;
+}
+#getRprtBtn {
+    background-color: #1c93b7;
+    padding: 6px 20px;
+    margin: 10px 2px;
+    color: white;
+    font-weight: 400;
+    box-shadow: 0 0px 16px 0 rgba(0,0,0,0.2), 0 6px 15px 0 rgba(0,0,0,0.19);
+}
+.filter_row
+{
+	border-bottom: 1.5px solid lightgray;
+}
+.camera_content_row
+{
+	margin-top: 8px;
+    padding-right:15px;
+}
+
+
+/* On Hover Styles */
+.td_hover{
+    background-color: rgba(97, 34, 212, 0.1);
+    padding: 10px;
+    border-bottom: 2px solid lightgray;
+}
+.td_transparent{
+    background-color:transparent;
+    padding: 10px;
+    border-bottom: 2px solid lightgray;
+}
+.td_active{
+    background-color:rgba(84, 13, 212, 0.2);
+    padding: 10px;
+    border-bottom: 2px solid lightgray;
+}
+/* On Hover */
+/* container , Camera-div , Camera Styles End*/
+
+/* Timelapse Vedio */ 
+.table_container
+{
+  text-align: center;
+}
+.Nextvedios_text
+{
+  margin-top: 4px;
+  font-size:18px;
+  font-weight: 400;
+  border-bottom: 3px solid lightgray;
+
+}
+
+/* Vedio Thumbnails start       */
+.video-list-thumbs img{
+    margin:0 auto;
+    width:70%;
+    height:100px;
+}
+.video-list-thumbs{}
+.video-list-thumbs > li{
+    margin-bottom:12px
+}
+.video-list-thumbs > li:last-child{}
+.video-list-thumbs > li > a{
+  display:block;
+  position:relative;
+  background-color: #212121;
+  color: #fff;
+  padding: 8px;
+  border-radius:3px
+}
+.video-list-thumbs > li > a:hover{
+  background-color:#000;
+  transition:all 500ms ease;
+  box-shadow:0 2px 4px rgba(0,0,0,.3);
+  text-decoration:none
+}
+.video-list-thumbs h2{
+  bottom: 0;
+  font-size: 14px;
+  height: 33px;
+  margin: 8px 0 0;
+}
+.video-list-thumbs .glyphicon-play-circle{
+    font-size: 60px;
+    opacity: 0.6;
+    position: absolute;
+    right: 39%;
+    top: 31%;
+    text-shadow: 0 1px 3px rgba(0,0,0,.5);
+}
+.video-list-thumbs > li > a:hover .glyphicon-play-circle{
+  color:#fff;
+  opacity:1;
+  text-shadow:0 1px 3px rgba(0,0,0,.8);
+  transition:all 500ms ease;
+}
+.video-list-thumbs .duration{
+  background-color: rgba(0, 0, 0, 0.4);
+  border-radius: 2px;
+  color: #fff;
+  font-size: 11px;
+  font-weight: bold;
+  left: 12px;
+  line-height: 13px;
+  padding: 2px 3px 1px;
+  position: absolute;
+  top: 12px;
+}
+.video-list-thumbs > li > a:hover .duration{
+  background-color:#000;
+  transition:all 500ms ease;
+}
+
+#Video_player
+{
+    height:auto;
+    min-height:450px;
+}
+.Vedio_div img
+{
+
+    width:100%;
+}
+.Vedio_div
+{
+    margin-bottom:15px;
+}
+.empty_no_videos {
+    border: 2px solid lightgray;
+}
+@media (min-width:320px) and (max-width: 480px) { 
+  .video-list-thumbs .glyphicon-play-circle{
+    font-size: 35px;
+    right: 36%;
+    top: 27%;
+  }
+  .video-list-thumbs h2{
+    bottom: 0;
+    font-size: 12px;
+    height: 22px;
+    margin: 8px 0 0;
+  }
+}
+/* Vedio Thumbnails Styles End */
+
+
+/* Vedio tag Styles start */
+.video-js .vjs-big-play-button {
+    top:48%;
+	left: 42%;
+    border-color: #0fffff;
+    color:white;
+    border-color: #00ff00;
+}
+
+.vjs-matrix.video-js {
+  color: #00ff00;
+  width:auto;
+}
+
+/* Change the color of various "bars". */
+.vjs-matrix .vjs-volume-level,
+.vjs-matrix .vjs-play-progress,
+.vjs-matrix .vjs-slider-bar {
+  background: #00ff00;
+}
+
+.video-js .vjs-mute-control {
+  display:none;
+  }
+.video-js .vjs-volume-panel {
+    display: none;
+}
+
+/* Video Styles End */
+.table_container ul li h6
+{
+  margin: 0px;
+  margin-top: 12px;
+}
+.table_container ul li p
+{
+  margin: 0px;
+}
+
+@media only screen and (max-width: 768px) { /*For Xs and SM devices*/
+.Vedio_div video{
+    width:100%;
+    height:270px;
+    max-height:270px;
+    min-height: 270px;
+}
+.my-video-dimensions {
+    width: 100%;
+    height: 270px;
+    max-height:270px;
+    min-height: 270px;
+}
+#Video_player
+{
+    min-height:270px;
+}
+
+   #getRprtBtn {
+   		margin:8px 2px;
+   	}
+.thumbnail_container{
+	max-height: 150px;
+}
+#main-menu-xs
+{
+	margin-bottom: 4px;
+}
+}
+@media only screen and (max-width: 411px) { /* very low xs  */
+	#side-bar > .navbar-collapse {
+    margin-top: 98px;
+}
+
+}
+@media only screen and (min-width: 768px) { /* For Lg and Md devices */
+	.carousel {
+    background-color: #d4c2c2;
+   }
+
+}
+

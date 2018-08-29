@@ -1,0 +1,2 @@
+--> You can select particular elements to apply lazyload 
+--> You can set thumbnail as src and then original image as data-original 

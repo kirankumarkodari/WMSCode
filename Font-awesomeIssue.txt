@@ -1,0 +1,4 @@
+Font awesome icons are not loading in Microsft Edge 
+
+https://stackoverflow.com/questions/39401009/font-awesome-not-working-on-any-ie-or-edge
+ --> Summary is that Local Fonts are not working but will work with CDN link.

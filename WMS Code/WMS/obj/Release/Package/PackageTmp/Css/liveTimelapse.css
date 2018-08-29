@@ -1,0 +1,252 @@
+
+
+/* Video tag styles start */
+.video-js
+{
+	width: 100%!important;
+}
+.video-js .vjs-big-play-button
+{
+	top:48%;
+	left: 42%;
+}
+.vjs-has-started .vjs-control-bar
+{
+	margin: auto;
+    width: 84%;
+}
+.vjs-matrix.video-js {
+  color: #00ff00;
+}
+
+/* Change the border of the big play button. */
+.vjs-matrix .vjs-big-play-button {
+  border-color: #0fffff;
+}
+
+/* Change the color of various "bars". */
+.vjs-matrix .vjs-volume-level,
+.vjs-matrix .vjs-play-progress,
+.vjs-matrix .vjs-slider-bar {
+  background: #00ff00;
+}
+
+.video-js .vjs-mute-control {
+	display:none;
+	}
+.video-js .vjs-volume-panel {
+    display: none;
+}
+/* Video tag styles end */
+
+/* Carousel Styles */
+.carousel-indicators li
+{
+    visibility:hidden;
+}
+.carousel-control {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 4%;  
+  color:lightgray;
+  text-align: center;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, .6);
+  background-color: rgba(0, 0, 0, 0);
+  filter: alpha(opacity=50);
+  opacity: .5;
+}
+.carousel .item video{
+	width: 100%;
+}
+.carousel .item img{
+	width: 100%;
+    height:auto;
+    max-height:400px;
+}
+.carousel-control .glyphicon-chevron-left, .carousel-control .glyphicon-chevron-right, .carousel-control .icon-next, .carousel-control .icon-prev
+{
+    font-size:22px;
+}
+
+@media only screen and (max-width: 768px) { /*For Xs and SM devices*/
+
+}
+/* Carousel-Styles End here */
+
+/* Cameras-container , Camera-div , Camera Styles */
+.Cam_name
+{
+	display: inline-block;
+	margin-right: 5%;
+	font-weight: 600;
+	font-size: 16px;
+	margin-left: 3%;
+	color: #07ABA0;
+}
+.Goto_live_btn
+{
+	display: inline-block;
+}
+.Cam_updated_time {
+    display: inline-block;
+    font-weight: 600;
+    font-size: 13px;
+    margin-left: 2px;
+    margin-top: 3px;
+    color: #A5B5B6;
+}
+.Thumbnail_toggler
+{
+    display: inline-block;
+	float: right;
+	font-weight: 600;
+	font-size: 14px;
+	margin-right: 0px;
+	cursor: pointer;
+	color: #171616;
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-top: 2px;
+	margin-top: -2px;
+}
+.Camera_details
+{
+	border: 2px solid lightgray;
+	padding-top: 5px;
+}
+.Carousel_div
+{
+	margin-top: 0.5px;
+	border-radius: 4px;
+}
+.Idle_sts
+{
+	color: lightgray;
+}
+.active_sts
+{
+	color:#5ebc48 ;
+}
+.Inactive_sts
+{
+	color:#F44336 ;
+}
+.Cam_sts
+{
+	margin-right: 6px;
+	font-size: 1.0em;
+}
+.fullscreen_icon
+{
+  position: absolute;
+  bottom: 8px;
+  right: 4.2%;
+}
+.Camera
+{
+	/*margin-right: -10px;
+	margin-bottom: 1px;
+	margin-left: 2px;*/
+	margin-top: 4px;
+}
+.Camera_div
+{
+    border-bottom: 2px solid lightgray;
+    border-right: 2px solid lightgray;
+    border-top: 2px solid lightgray;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.row
+{
+	margin-left:0px;
+	margin-right: 0px;
+}
+/* Image Thumbnails Container Styles start */
+.thumbnail_container
+{
+	position: absolute;
+	top:0;
+	right:0;
+	width:30%;
+	min-height: 100%;
+	background: linear-gradient(to bottom right, #536976, #292e49);
+	-webkit-box-shadow: -4px 2px 17px 0px rgba(115,105,115,0.65);
+    -moz-box-shadow: -4px 2px 17px 0px rgba(115,105,115,0.65);
+    box-shadow: -4px 2px 17px 0px rgba(115,105,115,0.65);
+    opacity: 0.93;
+    color: #f1e1e1;
+    max-height: 100%;
+    overflow-y: scroll;
+}
+
+td, th {
+    padding: 0;
+    text-align: center;
+    cursor: pointer;
+
+}
+
+.img-thumbnail {
+    display: inline-block;
+    width: 90%;
+    height: auto;
+    padding: 2px;
+    line-height: 1.42857143;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 2px;
+    -webkit-transition: all .2s ease-in-out;
+    -o-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+}
+
+#thumbnails_table
+{
+	margin-top: 8px;
+}
+#thumbnails_table p
+{
+	margin:0px;
+}
+#thumbnails_table td
+{
+	padding-top: .8em;
+    padding-bottom: .5em;
+}
+#thumbnails_table tr
+{
+	border-bottom: 2px solid lightgray;
+}
+#thumbnails_table tr:hover
+{
+
+}
+#thumbnails_table .spacer
+{
+	min-height: 5px;
+}
+.close_icon
+{
+	float: right;
+	color: #ff1744;
+	font-size: 1.3em;
+	cursor: pointer;
+}
+.Camera .btn_toggler
+{
+	background-color: transparent;
+}
+/* Image Thumbnails Container Styles start */
+
+/* Media Queries Start */
+@media only screen and (max-width: 411px) { /* very low xs  */
+    #side-bar > .navbar-collapse {
+        margin-top: 98px;
+    }
+}
+
+
+/* Media Queries End */

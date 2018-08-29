@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\Projects\Work_Monitoring_System\2_Pre_RequirementAnalysis\2_POC\Deployment\Code_deployment</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>09/14/2017 10:13:47</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>09/14/2017 10:13:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>09/14/2017 10:13:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>09/14/2017 10:13:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>09/14/2017 10:13:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>09/14/2017 10:13:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>09/14/2017 10:13:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>09/14/2017 10:13:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>09/14/2017 10:13:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>09/14/2017 10:13:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>09/14/2017 10:13:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>09/14/2017 10:13:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>09/14/2017 10:13:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>09/14/2017 10:13:46</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>09/14/2017 10:13:44</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>09/14/2017 10:13:45</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>09/14/2017 10:13:43</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.Deployment.dll">
+      <publishTime>09/14/2017 10:13:44</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.dll">
+      <publishTime>09/14/2017 10:13:44</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.Razor.dll">
+      <publishTime>09/14/2017 10:13:44</publishTime>
+    </File>
+    <File Include="bin/WMS.dll">
+      <publishTime>11/29/2017 18:29:59</publishTime>
+    </File>
+    <File Include="Css/bootstrap-datetimepicker.css">
+      <publishTime>09/14/2017 10:18:30</publishTime>
+    </File>
+    <File Include="Css/bootstrap.min.css">
+      <publishTime>09/14/2017 10:18:30</publishTime>
+    </File>
+    <File Include="Css/rwms.css">
+      <publishTime>11/08/2017 20:00:40</publishTime>
+    </File>
+    <File Include="Css/wms.css">
+      <publishTime>11/08/2017 20:03:36</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>09/14/2017 15:37:20</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont.eot">
+      <publishTime>09/14/2017 10:18:58</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont.ttf">
+      <publishTime>09/14/2017 10:18:58</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont.woff">
+      <publishTime>09/14/2017 10:18:58</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont.woff2">
+      <publishTime>09/14/2017 10:18:58</publishTime>
+    </File>
+    <File Include="fonts/FontAwesome.otf">
+      <publishTime>09/14/2017 10:18:58</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>09/14/2017 10:18:58</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>09/14/2017 10:18:58</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>09/14/2017 10:18:58</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>09/14/2017 10:18:58</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>09/14/2017 10:18:58</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>09/14/2017 10:13:42</publishTime>
+    </File>
+    <File Include="Images/1.jpg">
+      <publishTime>09/13/2017 05:13:40</publishTime>
+    </File>
+    <File Include="Images/2.jpg">
+      <publishTime>09/13/2017 05:13:54</publishTime>
+    </File>
+    <File Include="Images/3.jpg">
+      <publishTime>09/13/2017 05:14:06</publishTime>
+    </File>
+    <File Include="Images/camera.png">
+      <publishTime>09/14/2017 16:24:05</publishTime>
+    </File>
+    <File Include="Images/load.gif">
+      <publishTime>09/15/2017 10:41:13</publishTime>
+    </File>
+    <File Include="Images/nodata-available.jpg">
+      <publishTime>09/14/2017 17:21:36</publishTime>
+    </File>
+    <File Include="Images/one.jpg">
+      <publishTime>09/13/2017 05:13:40</publishTime>
+    </File>
+    <File Include="Images/test.jpg">
+      <publishTime>09/12/2017 20:00:12</publishTime>
+    </File>
+    <File Include="Images/test2.jpg">
+      <publishTime>09/12/2017 19:43:52</publishTime>
+    </File>
+    <File Include="Images/three.jpg">
+      <publishTime>09/13/2017 05:13:40</publishTime>
+    </File>
+    <File Include="Images/two.jpg">
+      <publishTime>09/13/2017 05:13:40</publishTime>
+    </File>
+    <File Include="Index.html">
+      <publishTime>11/29/2017 17:16:17</publishTime>
+    </File>
+    <File Include="Js/bootstrap-datetimepicker.min.js">
+      <publishTime>09/14/2017 10:18:41</publishTime>
+    </File>
+    <File Include="Js/bootstrap.min.js">
+      <publishTime>09/14/2017 10:18:41</publishTime>
+    </File>
+    <File Include="Js/jquery.min.js">
+      <publishTime>09/14/2017 10:18:41</publishTime>
+    </File>
+    <File Include="Js/jquery.sumoselect.min.js">
+      <publishTime>09/14/2017 10:18:41</publishTime>
+    </File>
+    <File Include="Js/moment.min.js">
+      <publishTime>09/14/2017 10:18:41</publishTime>
+    </File>
+    <File Include="Js/rwms.js">
+      <publishTime>09/14/2017 10:18:41</publishTime>
+    </File>
+    <File Include="Js/wms.js">
+      <publishTime>11/29/2017 17:24:05</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>09/14/2017 10:13:48</publishTime>
+    </File>
+    <File Include="Views/web.config">
+      <publishTime>09/14/2017 10:13:42</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>11/29/2017 18:30:10</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

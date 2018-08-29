@@ -1,0 +1,331 @@
+.navbar {
+    margin-bottom: 5px;
+}
+/* Carousel Styles */
+.carousel_img_normal{
+    width:100%;
+    margin: 0 auto;
+}
+
+
+.carousel_img_fullscreen{
+    max-width:100%;
+    height:auto;
+}
+.carousel-indicators li
+{
+    visibility:hidden;
+}
+.carousel-control {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 4%;  
+  color:lightgray;
+  text-align: center;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, .6);
+  background-color: rgba(0, 0, 0, 0);
+  filter: alpha(opacity=50);
+  opacity: .5;
+}
+.carousel-control .glyphicon-chevron-left, .carousel-control .glyphicon-chevron-right, .carousel-control .icon-next, .carousel-control .icon-prev
+{
+    font-size:22px;
+}
+
+/* Carousel-Styles End here */
+
+/* container , Camera-div , Camera Styles */
+.Cam_name
+{
+	display: inline-block;
+	margin-right: 5%;
+	font-weight: 600;
+	font-size: 16px;
+	margin-left: 3%;
+	color: #07ABA0;
+}
+
+.Cam_updated_time {
+    display: inline-block;
+    font-weight: 600;
+    font-size: 13px;
+    margin-left: 2px;
+    margin-top: 3px;
+    color: #A5B5B6;
+}
+
+.Camera_details
+{
+	border: 2px solid lightgray;
+	padding-top: 5px;
+}
+.Carousel_div
+{
+	margin-top: 0.5px;
+	border-radius: 4px;
+}
+.Idle_sts
+{
+	color: lightgray;
+}
+.active_sts
+{
+	color:#5ebc48 ;
+}
+.Inactive_sts
+{
+	color:#F44336 ;
+}
+.Cam_sts
+{
+	margin-right: 6px;
+	font-size: 1.0em;
+}
+.camera
+{
+	width:92%;
+	margin: 0 auto;
+}
+.Camera_div
+{
+
+	padding-left: 5px;
+	padding-right: 15px;
+   /* border-right: 2px solid lightgray;*/
+
+}
+.fullscreen_icon_normal
+{
+  position: absolute;
+  bottom: 5px;
+  right: 5%;
+}
+.fullscreen_icon_full{
+    position: absolute;
+    bottom: 8px;
+   right: 3%;
+}
+.fullscreen_i_full
+{
+  cursor:pointer;font-size: 2.8em;color: #c1e2e2;z-index: 200;
+}
+.fullscreen_i_normal
+{
+cursor:pointer;font-size: 1.8em;color: #c1e2e2;z-index: 200;
+}
+
+.row
+{
+	margin-left:0px;
+	margin-right: 0px;
+}
+/* Image Thumbnails Container Styles start */
+.thumbnail_container
+{
+	position: relative;
+	
+	background: linear-gradient(to top right, #7474bf, #348ac7);
+	background:transparent;
+	-webkit-box-shadow: -2px 2px 17px 0px rgba(115,105,115,0.65);
+    -moz-box-shadow: -2px 2px 17px 0px rgba(115,105,115,0.65);
+    box-shadow: -2px 2px 17px 0px rgba(115,105,115,0.65);
+    opacity: 0.93;
+    color: #6b6868;
+    font-weight: 400;
+    height:auto;
+    max-height: 510px;
+    min-height:400px;
+    padding-left: 2px;
+    border-left: 5px solid #cbe7f0;
+    border-top: 5px solid lightblue;
+    border-bottom: 5px solid lightblue;
+    overflow-y: auto;
+}
+
+
+.col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-xs-1, .col-xs-10, .col-xs-11, .col-xs-12, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9 {
+    padding-right: 3px;
+}
+td, th {
+    padding: 0;
+    text-align: center;
+    cursor: pointer;
+
+}
+
+.img-thumbnail {
+    display: inline-block;
+    width: 90%;
+    height: auto;
+    padding: 2px;
+    line-height: 1.42857143;
+    background-color: #fff;
+    border: 2px solid #ddd;
+    border-radius: 2px;
+    -webkit-transition: all .2s ease-in-out;
+    -o-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+}
+
+#thumbnails_table
+{
+	margin-top: 8px;
+}
+#thumbnails_table p
+{
+	margin:0px;
+}
+#thumbnails_table td
+{
+	padding-top: .8em;
+    padding-bottom: .5em;
+    border-bottom: 2px solid lightgray;
+    border-right: 2px solid lightgray;
+    border-top: 2px solid lightgray;
+    border-left: 2px solid lightgray;
+}
+
+.td_hover{
+    background-color: rgba(97, 34, 212, 0.1);
+}
+.td_transparent{
+    background-color:transparent;
+}
+.td_active{
+    background-color:rgba(84, 13, 212, 0.2);
+}
+
+
+#_container
+{
+	padding-top: 5px;
+}
+/* Styles for Dropdown */
+.CamSel_div .btn {
+    cursor: default;
+    background-color: #FFF;
+    border-radius: 4px;
+    text-align: left;
+}
+
+.CamSel_div .caret {
+    position: absolute;
+    right: 16px;
+    top: 16px;
+}
+
+.CamSel_div .btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active, .open .dropdown-toggle.btn-default {
+    background-color: #FFF;    
+}
+
+.CamSel_div .btn-group.open .dropdown-toggle {
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 8px rgba(102, 175, 233, 0.6)
+}
+
+.CamSel_div .btn-group {width: 100%}
+.CamSel_div .dropdown-menu {width: 100%;}
+.CamSel_div .dropdown-menu>li>a
+{
+	padding: 7px;
+}
+.CamSel_div .dropdown-menu>li>a
+{
+    font-size: 13px;
+    font-weight: 500;
+    color: #A2A2A2;
+}
+.CamSel_div button
+{  font-size: 13px;
+    font-weight: 500;
+    color: #A2A2A2;
+
+}
+.CamSel_div .dropdown-menu>li>a:hover
+{
+	background-color: #0f5e83;
+	color: white;
+}
+#getRprtBtn {
+    background-color: #1c93b7;
+    padding: 6px 25px;
+    margin: 15px 2px;
+    color: white;
+    font-weight: 400;
+    box-shadow: 0 0px 16px 0 rgba(0,0,0,0.2), 0 6px 15px 0 rgba(0,0,0,0.19);
+}
+.filter_row
+{
+	border-bottom: 1.5px solid lightgray;
+}
+.camera_content_row
+{
+	margin-top: 8px;
+    padding-right: 7px;
+    margin-bottom: 10px;
+}
+
+/* container , Camera-div , Camera Styles End*/
+
+@media only screen and (max-width: 768px) { /*For Xs and SM devices*/
+.carousel_img_normal{
+    width:100%;
+    height:auto;
+    max-height:270px;
+    min-height: 270px;
+}
+   #getRprtBtn {
+   		margin:8px 2px;
+        padding:6px 20px;
+   	}
+.thumbnail_container{
+    min-height:200px;
+	max-height: 250px;
+}
+#main-menu-xs
+{
+	margin-bottom: 4px;
+}
+.camera {
+    width: 100%;
+    margin: 0 auto;
+}
+.camera_content_row
+{
+    padding-right:0px;
+}
+}
+@media only screen and (max-width: 411px) { /* very low xs  */
+	#side-bar > .navbar-collapse {
+    margin-top: 98px;
+}
+
+}
+@media only screen and (max-width: 480px)
+{
+#getRprtBtn
+{
+    margin-top: 0px;
+}
+
+}
+
+@media only screen and (min-width: 768px) { /* For Lg and Md devices */
+	.carousel {
+    background-color: #d4c2c2;
+   }
+    @media only screen and (min-width: 1450px) { /* For Lg and Md devices */
+       .thumbnail_container{
+	       max-height: 650px;
+        }
+       .carousel_img_normal{
+             width:100%;
+            height:auto;
+            max-height:690px;
+            min-height: 670px;
+           }
+    }
+
+}
+

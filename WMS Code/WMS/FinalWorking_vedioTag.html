@@ -1,0 +1,61 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Video.js | HTML5 Video Player</title>
+
+     <link href="http://vjs.zencdn.net/6.6.3/video-js.css" rel="stylesheet">
+
+     <!-- If you'd like to support IE8 -->
+     <script src="http://vjs.zencdn.net/ie8/1.1.2/videojs-ie8.min.js"></script>
+
+    <style>
+.vjs-matrix.video-js {
+  color: #00ff00;
+}
+
+/* Change the border of the big play button. */
+.vjs-matrix .vjs-big-play-button {
+  border-color: #00ff00;
+}
+
+/* Change the color of various "bars". */
+.vjs-matrix .vjs-volume-level,
+.vjs-matrix .vjs-play-progress,
+.vjs-matrix .vjs-slider-bar {
+  background: #00ff00;
+}
+
+.video-js .vjs-mute-control {
+	display:none;
+	}
+.video-js .vjs-volume-panel {
+    display: none;
+}
+	</style>
+
+</head>
+<body>
+<video id="my-video" class="vjs-matrix video-js" controls preload="none" width="640" height="264"
+  poster="http://vjs.zencdn.net/v/oceans.png" data-setup="{}" download>
+    <source src="Videos/201805100405854056261390.ogg" type='video/ogg'>
+	<source src="Videos/201805100405854056261390.mp4" type='video/mp4'>
+	
+   <p class="vjs-no-js">
+      To view this video please enable JavaScript, and consider upgrading to a web browser that
+      <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a>
+    </p>
+</video>
+<!--
+<object width="400" height="400" data="Video/201805080405854056013903.mp4"></object>-->
+<!--<video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" width="640" height="264"
+       poster="http://vjs.zencdn.net/v/oceans.png"
+       data-setup='{"techOrder": ["flash"]}'>
+    <source src="http://vjs.zencdn.net/v/oceans.mp4" type='video/mp4' />
+</video>-->
+
+<script src="http://vjs.zencdn.net/6.6.3/video.js"></script>
+<script>
+ //videojs('#my-video');
+</script>
+</body>
+</html>

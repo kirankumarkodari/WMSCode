@@ -1,0 +1,1 @@
+https://blogs.iis.net/bills/how-to-add-mime-types-with-iis7-web-config

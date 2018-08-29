@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Work Monitoring System</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta http-equiv="cache-control" content="no-cache" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /> 
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.css" rel="stylesheet" type="text/css">
+    <link href="css/header.css" rel="stylesheet" type="text/css">
+    <link href="css/Help.css" rel="stylesheet" type="text/css">
+
+
+    <script type="text/javascript" src="js/jquery.min.js"></script>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+    <script type="text/javascript" src="js/header.js"></script> 
+    
+</head>
+<body>
+    <div class="container-fluid">
+          <!-- Header Div End -->
+     <div id="header_row">
+           <!-- Normal header div Start -->
+           <div id="Normal_header_div" class="hidden-xs hidden-sm bg_img_div"> 
+            <div id="normal_title_text" class="title_text">
+                       <i class="fa fa-eye" style="font-size:1.5em;" aria-hidden="true"></i>  Work Monitoring System
+            </div>
+          </div>
+          <div id="normal_navigation_div" class="hidden-sm hidden-xs">
+             <nav class="navbar navbar-default">
+                <ul class="nav navbar-nav navbar-center" id="Normal_nav_bar">
+                             <li class="dropdown" id="menu-item-images">
+                            <a href="#" class="dropdown-toggle gradient_fill" data-toggle="dropdown" role="button" aria-expanded="false" > <i class="fa fa-picture-o" aria-hidden="true" style="font-size:1.5em;"></i>IMAGES <span class="caret"></span></a>
+                            <ul class="dropdown-menu" role="menu">
+                                <li><a href="Index.html" class="gradient_fill" alt="Live">LIVE</a></li>
+                                <li><a href="Old_Images.html" class="gradient_fill" alt="Old">OLD</a></li>
+                            </ul>
+                            </li>
+
+                            <li class="dropdown" id="menu-item-timelapse">
+                            <a href="#" class="dropdown-toggle gradient_fill" data-toggle="dropdown" role="button" aria-expanded="false" > <i class="fa fa-video-camera" aria-hidden="true" style="font-size:1.5em;"></i>TIMELAPSE <span class="caret"></span></a>
+                            <ul class="dropdown-menu" role="menu">
+                                <li><a href="Live-timelapse.html" class="gradient_fill" alt="Live">LIVE</a></li>
+                                <li><a href="Old_Timelapse.html" class="gradient_fill" alt="Old">OLD</a></li>
+                            </ul>
+                            </li>
+                             <li id="menu-item-configurations active" ><a href="Configurations.html" class="gradient_fill" alt="Configurations"><i class="fa fa-cog" aria-hidden="true" style="font-size:1.5em;"></i>CONFIGURATIONS</a></li>
+                            <li id="menu-item-help" class="active"><a href="#" class="gradient_fill" alt="Help"><i class="fa fa-info" aria-hidden="true" style="font-size:1.5em;"></i>HELP</a></li>
+                </ul>
+               </nav>
+            </div>
+          <!-- Normal Header Div End -->
+             <!-- To put Work Monitoring System Title and as well as navigation in the Title bar it self for Mobiles -->
+                <nav class="navbar navbar-default hidden-md hidden-lg" id="main-menu-xs" style="z-index:1010">
+                    <div class="navbar-header">
+                      <button type="button" class="navbar-toggle" style="float:left;margin-left:10px;" id="sidebar-toggler">
+                          <span class="sr-only">Toggle navigation</span>
+                          <span class="icon-bar"></span>
+                          <span class="icon-bar"></span>
+                          <span class="icon-bar"></span>
+                       </button>
+                       <div id="mobile_title_text" class="title_text">
+                          <i class="fa fa-eye" style="font-size:1em;" aria-hidden="true"></i>Work Monitoring System
+                       </div>
+                    </div>
+                </nav>
+                <div id="side-bar" class="bar-collapsed">
+                    <div  class="navbar-collapse">
+                        <ul class="nav navbar-nav navbar-left">
+                             <li class="dropdown" id="menu-item-images">
+                            <a href="#" class="dropdown-toggle gradient_fill" data-toggle="dropdown" role="button" aria-expanded="false" > <i class="fa fa-picture-o" aria-hidden="true" style="font-size:1.5em;"></i>IMAGES <span class="caret"></span></a>
+                            <ul class="dropdown-menu" role="menu">
+                                <li><a href="Index.html" class="gradient_fill" alt="Live">LIVE</a></li>
+                                <li><a href="Old_Images.html" class="gradient_fill" alt="Old">OLD</a></li>
+                            </ul>
+                            </li>
+
+                            <li class="dropdown" id="menu-item-timelapse">
+                            <a href="#" class="dropdown-toggle gradient_fill" data-toggle="dropdown" role="button" aria-expanded="false" > <i class="fa fa-video-camera" aria-hidden="true" style="font-size:1.5em;"></i>TIMELAPSE <span class="caret"></span></a>
+                            <ul class="dropdown-menu" role="menu">
+                                <li><a href="Live-timelapse.html" class="gradient_fill" alt="Live">LIVE</a></li>
+                                <li><a href="Old_Timelapse.html" class="gradient_fill" alt="Old">OLD</a></li>
+                            </ul>
+                            </li>
+                             <li id="menu-item-configurations active" ><a href="Configurations.html" class="gradient_fill" alt="Configurations"><i class="fa fa-cog" aria-hidden="true" style="font-size:1.5em;"></i>CONFIGURATIONS</a></li>
+                            <li id="menu-item-help" class="active"><a href="#" class="gradient_fill" alt="Help"><i class="fa fa-info" aria-hidden="true" style="font-size:1.5em;"></i>HELP</a></li>
+                        </ul>
+                    </div>
+                </div>
+            <!-- This navigation will be displayed only on Md,Lg screens -->
+    </div>
+         <!-- Header Div End -->
+    <div id="Enquiry_Information_container">
+       <div class="Contact_us" style="margin-bottom: 1.5%;"> <p style="font-size: 32px;border-bottom: 3px solid lightblue;width: 12%;margin: 0 auto;"> Contact us </p></div>
+      <p class="Mail_id"> <i class="fa fa-envelope" style="font-size: 1.2em;" aria-hidden="true"></i> iot@efftronics.com </p>
+      <p class="Phone"> <i class="fa fa-phone" style="font-size: 1.2em;" aria-hidden="true"></i> +91 (866) 2466675 </p> 
+    </div>
+  </div>
+</body>
+</html>
+

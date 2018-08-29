@@ -1,0 +1,333 @@
+.row
+{
+	margin-left:0px;
+	margin-right: 0px;
+
+}
+.Camera_id
+{
+	display: inline-block;
+	font-weight: 600;
+	font-size: 18px;
+	color: #2e465a;
+	margin-left: 3px;
+}
+.CamIMSI_lbl
+{
+    margin-right: 5px;
+}
+.Camera_form
+{
+	text-align: center;
+	padding-top:13px;
+	padding-bottom: 15px;
+}
+.delete_icon
+{
+	display: inline-block;
+	float: right;
+	margin-right:2%;
+	cursor: pointer;
+}
+.camIMSI_err
+{
+	color: red;
+	display: none;
+}
+.camIMSI_minlen
+{
+	color: red;
+	display: none;
+}
+.camName_minlen
+{
+	color: red;
+	display: none;
+}
+.Camera_div
+{
+	border:5px solid #dbd6ff;
+	padding: 0px;
+	margin-top:5px;
+	margin-bottom: 10px;
+	
+	text-align: center;
+	background-color: #ffffff;
+	box-shadow: 0 6px 5px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+#Cameras-row
+{
+
+	text-align: center;
+
+}
+.Camera_title_bar
+{
+	padding-top: 8px;
+	    border-bottom: 1.5px solid lightgray;
+}
+label{
+	    font-size: 14px;
+	    color: #080808;
+}
+input[type=text] {
+    padding: 8px 10px;
+    padding-bottom: 2px;
+    margin: 6px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 3px solid #9a8c8c;
+    border-left: 1px solid #9a8c8c;
+    border-right: 1px solid #9a8c8c;
+    border-top: 1.2px solid #9a8c8c;
+    font-size: 14px;
+    font-weight: 600;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    outline: none;
+    margin-left: 13px;
+    min-width: 70%;
+    box-shadow: 0 1px 2px 0 rgba(0,0,0,0.2), 0 1px 5px 0 rgba(0,0,0,0.19);
+}
+.submit_btn_class
+{
+	 background-color: #1c93b7;
+    padding: 6px 25px;
+    color: white;
+    font-weight: 400;
+    box-shadow: 0 0px 16px 0 rgba(0,0,0,0.2), 0 6px 15px 0 rgba(0,0,0,0.19);
+}
+.add_btn_class
+{
+	 background-color: #1c93b7;
+    padding: 6px 25px;
+    color: white;
+    font-weight: 400;
+    box-shadow: 0 0px 16px 0 rgba(0,0,0,0.2), 0 6px 15px 0 rgba(0,0,0,0.19);
+}
+.camIMSI_err
+{
+    color:red;
+    font-size:12px;
+}
+input[type=text]:focus {
+    border: 2px solid #555;
+}
+
+/* Sucess Modal Styles start */
+#Sucess_feedback_modal
+{
+    top:20%;
+    text-align:center;
+}
+#Sucess_feedback_modal .sucess_txt
+{
+    font-size: 22px;
+    margin-top: 5px;
+    font-weight: bold;
+}
+#Sucess_feedback_modal .feedback_msg
+{
+     margin-top: 15px;
+    font-size: 16px;
+    font-weight: 600;
+}
+#Sucess_feedback_modal .modal-body{
+    padding:0px;
+    
+}
+#Sucess_feedback_modal .modal-content {
+        border: none;
+        border-radius: 0px;
+    }
+#Sucess_feedback_modal .ok_btn
+{
+    margin-top: 5%;
+    font-weight: bold;
+    font-size: 16px;
+    color: white;
+    background-color: #0bcbdc;
+    padding: 9px;
+    cursor:pointer;
+    
+}
+
+/* Success Modal styles End */
+
+/* Sucess Modal Styles start */
+#Fail_feedback_modal
+{
+    top:20%;
+    text-align:center;
+
+}
+#Fail_feedback_modal .sucess_txt
+{
+    font-size: 22px;
+    margin-top: 14px;
+    font-weight: bold;
+}
+#Fail_feedback_modal .feedback_msg
+{
+     margin-top: 15px;
+    font-size: 16px;
+    font-weight: 600;
+}
+#Fail_feedback_modal .modal-body{
+    padding:0px;
+}
+#Fail_feedback_modal .modal-content {
+        border: none;
+        border-radius: 0px;
+    }
+#Fail_feedback_modal .ok_btn
+{
+    margin-top: 5%;
+    font-weight: bold;
+    font-size: 16px;
+    color: white;
+    background-color: #0bcbdc;
+    padding: 9px;
+    cursor:pointer;
+    
+}
+
+/* Media Queries Start */
+@media only screen and (max-width: 768px) { /* xs and sm devices */
+	#Cameras-row
+    {
+    	padding-left: 0%;
+    }
+}
+@media only screen and (max-width: 411px) { /* very low xs  */
+	#side-bar > .navbar-collapse {
+    margin-top: 98px;
+}
+}
+
+/* Media Queries End */
+
+#AddCamerarow 
+{
+
+	margin-right: 5%;
+	cursor: pointer;
+	text-align: right;
+}
+
+#AddCamerarow  .icon_row
+{
+	margin-right: 2%;
+}
+#AddCamerarow  .text_row
+{
+	 font-weight: 600;
+    font-size: 14px;
+    color: #5d97ca;
+}
+
+.modal
+{
+	top:15%;
+}
+#addcamerapopup_modal .modal-header
+{
+	background-color: white;
+	text-align: center;
+	border-bottom: 3px solid lightgray;
+	font-weight: 600;
+	padding:10px;
+	font-size: 14px;
+}
+#addcamerapopup_modal .modal-content
+{
+	border:none;
+	border-radius:0px; 
+}
+#addcamerapopup_modal .close
+{
+	font-size: 30px;
+
+}
+.Group_add_row
+{
+        float: right;
+    text-align: center;
+}
+#delete_confirm_modal .modal-header {
+    background-color: #ff6b6c;
+    padding: 5px;
+    padding-top: 11px;
+    text-align: center;
+    color: white;
+    font-weight: 600;
+    font-size: 16px;
+}
+#delete_confirm_modal .close
+{
+	font-size: 26px;
+	font-weight: 600;
+
+}
+#delete_confirm_modal .modal-content
+{
+	border:none;
+	border-radius:0px; 
+}
+
+.delete_btns
+{
+	text-align: center;
+	margin-top: 10px;
+}
+.error_msg
+{
+	font-size: 16px;
+	font-weight: 500;
+}
+.delete_btn
+{
+
+    padding: 6px 25px;
+    border:none;
+    font-weight: 400;
+    box-shadow: 0 0px 16px 0 rgba(0,0,0,0.2), 0 6px 15px 0 rgba(0,0,0,0.19);
+}
+#NO_btn
+{
+	background: transparent;
+	color: black;
+	margin-right: 5px;
+}
+#YES_btn
+{
+	background-color:#ff6b6c;
+	color: white;
+}
+
+
+#save_confirm_modal .modal-header {
+    background-color: #4cc771;
+    padding: 5px;
+    padding-top: 11px;
+    text-align: center;
+    color: white;
+    font-weight: 600;
+    font-size: 16px;
+}
+#save_confirm_modal .close
+{
+	font-size: 26px;
+	font-weight: 600;
+
+}
+#save_confirm_modal .modal-content
+{
+	border:none;
+	border-radius:0px; 
+}
+#save_confirm_modal #YES_btn
+{
+    background-color:#4cc771;
+}
+

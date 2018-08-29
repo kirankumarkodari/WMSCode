@@ -1,0 +1,252 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Work Monitoring System</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta http-equiv="cache-control" content="no-cache" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /> 
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.css" rel="stylesheet" type="text/css">
+    <link href="css/bootstrap-datetimepicker.css" rel="stylesheet" type="text/css">
+    <link href="http://vjs.zencdn.net/6.6.3/video-js.css" rel="stylesheet" type="text/css">
+
+    <link href="css/header.css" rel="stylesheet" type="text/css">
+    <link href="css/Old_Timelapse.css" rel="stylesheet" type="text/css">
+    
+
+    <script type="text/javascript" src="js/jquery.min.js"></script>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+
+        <script type="text/javascript" src="js/moment.min.js"></script>
+    <script type="text/javascript" src="js/bootstrap-datetimepicker.min.js"></script>
+    <!-- If you'd like to support IE8 -->
+     <script src="http://vjs.zencdn.net/ie8/1.1.2/videojs-ie8.min.js"></script>
+    <script src="http://vjs.zencdn.net/6.6.3/video.js"></script>
+
+    <script type="text/javascript" src="js/header.js"></script> 
+    <script type="text/javascript" src="js/OldTimelapse.js"></script>
+    
+</head>
+<body>
+    <div class="container-fluid">
+          <!-- Header Div End -->
+        <!--Loading Modal start-->
+        <div class="modal fade Loading" id="LoadingModal" style="margin-top:15%;" data-backdrop="static" data-keyboard="false" role="dialog">
+            <div class="modal-dialog">
+                <!-- Modal content-->
+                <div class="modal-content">
+
+                    <div class="modal-body">
+
+                        <center><img height="270" width="160" class="img-responsive" src="Images/img_loading.gif" /></center>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+        <!--Loading Modal End-->
+
+     <div id="header_row">
+           <!-- Normal header div Start -->
+           <div id="Normal_header_div" class="hidden-xs hidden-sm bg_img_div"> 
+            <div id="normal_title_text" class="title_text">
+                       <i class="fa fa-eye" style="font-size:1.5em;" aria-hidden="true"></i>  Work Monitoring System
+            </div>
+          </div>
+          <div id="normal_navigation_div" class="hidden-sm hidden-xs">
+             <nav class="navbar navbar-default">
+                <ul class="nav navbar-nav navbar-center" id="Normal_nav_bar">
+                            <li class="dropdown" id="menu-item-images">
+                            <a href="#" class="dropdown-toggle gradient_fill" data-toggle="dropdown" role="button" aria-expanded="false" > <i class="fa fa-picture-o" aria-hidden="true" style="font-size:1.5em;"></i>IMAGES <span class="caret"></span></a>
+                            <ul class="dropdown-menu" role="menu">
+                                <li><a href="Index.html" class="gradient_fill" alt="Live">LIVE</a></li>
+                                <li><a href="Old_Images.html" class="gradient_fill" alt="Old">OLD</a></li>
+                            </ul>
+                            </li>
+
+                            <li class="dropdown active" id="menu-item-timelapse">
+                            <a href="#" class="dropdown-toggle gradient_fill" data-toggle="dropdown" role="button" aria-expanded="false" > <i class="fa fa-video-camera" aria-hidden="true" style="font-size:1.5em;"></i>TIMELAPSE <span class="caret"></span></a>
+                            <ul class="dropdown-menu" role="menu">
+                                <li><a href="Live-timelapse.html" class="gradient_fill" alt="Live">LIVE</a></li>
+                                <li><a href="#" class="gradient_fill" alt="Old">OLD</a></li>
+                            </ul>
+                            </li>
+                             <li id="menu-item-configurations"><a href="Configurations.html" class="gradient_fill" alt="Configurations"><i class="fa fa-cog" aria-hidden="true" style="font-size:1.5em;"></i>CONFIGURATIONS</a></li>
+                            <li id="menu-item-help"><a href="Help.html" class="gradient_fill" alt="Help"><i class="fa fa-info" aria-hidden="true" style="font-size:1.5em;"></i>HELP</a></li>
+                </ul>
+               </nav>
+            </div>
+          <!-- Normal Header Div End -->
+             <!-- To put Work Monitoring System Title and as well as navigation in the Title bar it self for Mobiles -->
+                <nav class="navbar navbar-default hidden-md hidden-lg" id="main-menu-xs" style="z-index:1010">
+                    <div class="navbar-header">
+                      <button type="button" class="navbar-toggle" style="float:left;margin-left:10px;" id="sidebar-toggler">
+                          <span class="sr-only">Toggle navigation</span>
+                          <span class="icon-bar"></span>
+                          <span class="icon-bar"></span>
+                          <span class="icon-bar"></span>
+                       </button>
+                       <div id="mobile_title_text" class="title_text">
+                          <i class="fa fa-eye" style="font-size:1em;" aria-hidden="true"></i>Work Monitoring System
+                       </div>
+                    </div>
+                </nav>
+                <div id="side-bar" class="bar-collapsed">
+                    <div  class="navbar-collapse">
+                        <ul class="nav navbar-nav navbar-left">
+                            <li class="dropdown" id="menu-item-images">
+                                <a href="#" class="dropdown-toggle gradient_fill" data-toggle="dropdown" role="button" aria-expanded="false"> <i class="fa fa-picture-o" aria-hidden="true" style="font-size:1.5em;"></i>IMAGES <span class="caret"></span></a>
+                                <ul class="dropdown-menu" role="menu">
+                                    <li><a href="Index.html" class="gradient_fill" alt="Live">LIVE</a></li>
+                                    <li><a href="Old_Images.html" class="gradient_fill" alt="Old">OLD</a></li>
+                                </ul>
+                            </li>
+
+                            <li class="dropdown active" id="menu-item-timelapse">
+                                <a href="#" class="dropdown-toggle gradient_fill" data-toggle="dropdown" role="button" aria-expanded="false"> <i class="fa fa-video-camera" aria-hidden="true" style="font-size:1.5em;"></i>TIMELAPSE <span class="caret"></span></a>
+                                <ul class="dropdown-menu" role="menu">
+                                    <li><a href="Live-timelapse.html" class="gradient_fill" alt="Live">LIVE</a></li>
+                                    <li><a href="#" class="gradient_fill" alt="Old">OLD</a></li>
+                                </ul>
+                            </li>
+                            <li id="menu-item-configurations"><a href="Configurations.html" class="gradient_fill" alt="Configurations"><i class="fa fa-cog" aria-hidden="true" style="font-size:1.5em;"></i>CONFIGURATIONS</a></li>
+                            <li id="menu-item-help"><a href="Help.html" class="gradient_fill" alt="Help"><i class="fa fa-info" aria-hidden="true" style="font-size:1.5em;"></i>HELP</a></li>
+
+                        </ul>
+                    </div>
+                </div>
+            <!-- This navigation will be displayed only on Md,Lg screens -->
+        </div>
+         <!-- Header Div End -->
+         <div id="_container">
+          <!-- Filter Row start -->
+           <div class="row filter_row">
+            <!--Dropdown For Camera Selection-->
+            <div class="col-lg-3 col-md-2 col-sm-4 col-xs-12 CamSel_div">
+                <div class="Camera_title">
+                    <i style="font-weight:bold"> Camera</i>
+                </div>
+               <div class="btn-group">
+                  <button type="button" class="form-control btn btn-default dropdown-toggle" data-toggle="dropdown">
+                      WMS-001 <span class="caret"></span>
+                  </button>
+                  <ul class="dropdown-menu" role="menu">
+                      <li><a href="#">WMS-001</a></li>
+                      <li><a href="#">WMS-002</a></li>
+                      <li><a href="#">WMS-003</a></li>
+                  </ul>
+                </div>  
+             </div>
+              <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12  ">
+                        <!-- From Date Picker -->
+                        <div class="form-group">
+                            <i style="font-weight:bold">From Time</i>
+                            <div class="input-group date" id="fromDatePicker">
+
+                                <input id="frmDatepickerInpt" type="text" class="form-control" readonly style="background:white">
+                                <span class="input-group-addon">
+                                    <span class="fa fa-calendar"></span>
+                                </span>
+                            </div>
+                        </div>
+              </div>
+
+              <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+                        <!--To Date Picker -->
+                        <div class="form-group">
+                            <i style="font-weight:bold">To Time</i>
+                            <div class="input-group date" id="toDatePicker">
+
+                                <input id="toDatepickerInpt" type="text" class="form-control" readonly style="background:white">
+                                <span class="input-group-addon">
+                                    <span class="fa fa-calendar"></span>
+                                </span>
+                            </div>
+                        </div>
+              </div>
+
+              <div class="col-lg-2  col-md-2 col-md-offset-1 col-sm-6 col-sm-offset-3 col-xs-6 col-xs-offset-3">
+                        <!--get Image button -->
+                        <button id="getRprtBtn" type="button" class="button" onclick="">Get Timelapse</button>
+              </div>
+              
+           </div>
+  <!-- End of Filter Row -->
+          <div  class="row camera_content_row">
+            <div  class="Camera_div  col-lg-10 col-md-10 col-sm-10 col-xs-12">
+              <div class="camera">
+                <div class="Camera_details">
+                  <p class="Cam_updated_time">
+                        Updated time:2017/08/09 04:30:22
+                  </p>
+                  <p class="Cam_name">
+                    <i class="Cam_sts active_sts fa fa-circle"></i>IoT
+                  </p>
+                  
+                </div>
+                <div class="Vedio_div">
+                  <!-- Start of the Carousel -->
+                   <video id="my-video" class="vjs-matrix video-js" controls 
+                    poster="http://vjs.zencdn.net/v/oceans.png" data-setup="{}" download>
+                   <source src="http://intranet/Style%20Library/Happiness%20Unlimited%20-8%20-%20Sister%20Shivani%20(English).mp4" type='video/mp4'>
+                     <p class="vjs-no-js">
+                      To view this video please enable JavaScript, and consider upgrading to a web browser that
+                      <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a>
+                     </p>
+                   </video>
+                </div>
+            </div>
+          </div>
+              <div class="thumbnail_container col-lg-2 col-md-2 col-sm-2 col-xs-12" id="camera1_thumbnail">
+                  <!-- To Contain Thumbnail Images for that Camera -->
+                  <div class="table_container">
+                    <p class="Nextvedios_text"> Next Videos </p>
+                     <ul class="list-unstyled video-list-thumbs row">
+                        <li>
+                          <a href="#" title="Claudio Bravo, antes su debut con el Barça en la Liga">
+                            <img src="images/mqdefault.jpg" alt="Barca" class="img-responsive" height="150px" />
+                            <h6><p>2017/08/09</p></h6>
+                            <span class="glyphicon glyphicon-play-circle"></span>
+                          </a>
+                        </li>
+                        <li>
+                          <a href="#" title="Claudio Bravo, antes su debut con el Barça en la Liga">
+                            <img src="images/mqdefault.jpg" alt="Barca" class="img-responsive" height="150px" />
+                            <h6><p>2017/08/09</p></h6>
+                            <span class="glyphicon glyphicon-play-circle"></span>
+                          </a>
+                        </li>
+                        <li>
+                          <a href="#" title="Claudio Bravo, antes su debut con el Barça en la Liga">
+                            <img src="images/mqdefault.jpg" alt="Barca" class="img-responsive" height="150px" />
+                            <h6><p>2017/08/09</p></h6>
+                            <span class="glyphicon glyphicon-play-circle"></span>
+                          </a>
+                        </li>
+                        <li>
+                          <a href="#" title="Claudio Bravo, antes su debut con el Barça en la Liga">
+                            <img src="images/mqdefault.jpg" alt="Barca" class="img-responsive" height="150px" />
+                            <h6><p>2017/08/09</p></h6>
+                            <span class="glyphicon glyphicon-play-circle"></span>
+                          </a>
+                        </li>
+                         <li>
+                          <a href="#" title="Claudio Bravo, antes su debut con el Barça en la Liga">
+                            <img src="images/mqdefault.jpg" alt="Barca" class="img-responsive" height="150px" />
+                            <h6><p>2017/08/09 </p> </h6>
+                            <span class="glyphicon glyphicon-play-circle"></span>
+                          </a>
+                        </li>
+                    </ul>
+                </div>
+                </div>
+              </div>
+         </div>
+  </div>
+</body>
+</html>
+

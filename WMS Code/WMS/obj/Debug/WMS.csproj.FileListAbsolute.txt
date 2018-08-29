@@ -1,0 +1,656 @@
+D:\Projects\13 sep 2017\Work Monitoring System - 13 sep 12 pm\Server Code\WMS\WMS\bin\roslyn\csc.exe
+D:\Projects\13 sep 2017\Work Monitoring System - 13 sep 12 pm\Server Code\WMS\WMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\13 sep 2017\Work Monitoring System - 13 sep 12 pm\Server Code\WMS\WMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\13 sep 2017\Work Monitoring System - 13 sep 12 pm\Server Code\WMS\WMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\13 sep 2017\Work Monitoring System - 13 sep 12 pm\Server Code\WMS\WMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\13 sep 2017\Work Monitoring System - 13 sep 12 pm\Server Code\WMS\WMS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\13 sep 2017\Work Monitoring System - 13 sep 12 pm\Server Code\WMS\WMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\13 sep 2017\Work Monitoring System - 13 sep 12 pm\Server Code\WMS\WMS\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\13 sep 2017\Work Monitoring System - 13 sep 12 pm\Server Code\WMS\WMS\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\13 sep 2017\Work Monitoring System - 13 sep 12 pm\Server Code\WMS\WMS\bin\roslyn\vbc.exe
+D:\Projects\13 sep 2017\Work Monitoring System - 13 sep 12 pm\Server Code\WMS\WMS\bin\roslyn\VBCSCompiler.exe
+D:\Projects\13 sep 2017\Work Monitoring System - 13 sep 12 pm\Server Code\WMS\WMS\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\13 sep 2017\Work Monitoring System - 13 sep 12 pm\Server Code\WMS\WMS\bin\WMS.dll.config
+D:\Projects\13 sep 2017\Work Monitoring System - 13 sep 12 pm\Server Code\WMS\WMS\bin\WMS.dll
+D:\Projects\13 sep 2017\Work Monitoring System - 13 sep 12 pm\Server Code\WMS\WMS\bin\WMS.pdb
+D:\Projects\13 sep 2017\Work Monitoring System - 13 sep 12 pm\Server Code\WMS\WMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\13 sep 2017\Work Monitoring System - 13 sep 12 pm\Server Code\WMS\WMS\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\13 sep 2017\Work Monitoring System - 13 sep 12 pm\Server Code\WMS\WMS\bin\System.Web.Helpers.dll
+D:\Projects\13 sep 2017\Work Monitoring System - 13 sep 12 pm\Server Code\WMS\WMS\bin\System.Web.Mvc.dll
+D:\Projects\13 sep 2017\Work Monitoring System - 13 sep 12 pm\Server Code\WMS\WMS\bin\System.Web.Razor.dll
+D:\Projects\13 sep 2017\Work Monitoring System - 13 sep 12 pm\Server Code\WMS\WMS\bin\System.Web.Webpages.Deployment.dll
+D:\Projects\13 sep 2017\Work Monitoring System - 13 sep 12 pm\Server Code\WMS\WMS\bin\System.Web.Webpages.dll
+D:\Projects\13 sep 2017\Work Monitoring System - 13 sep 12 pm\Server Code\WMS\WMS\bin\System.Web.Webpages.Razor.dll
+D:\Projects\13 sep 2017\Work Monitoring System - 13 sep 12 pm\Server Code\WMS\WMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\13 sep 2017\Work Monitoring System - 13 sep 12 pm\Server Code\WMS\WMS\bin\System.Web.Razor.xml
+D:\Projects\13 sep 2017\Work Monitoring System - 13 sep 12 pm\Server Code\WMS\WMS\bin\System.Web.Webpages.xml
+D:\Projects\13 sep 2017\Work Monitoring System - 13 sep 12 pm\Server Code\WMS\WMS\bin\System.Web.Webpages.Deployment.xml
+D:\Projects\13 sep 2017\Work Monitoring System - 13 sep 12 pm\Server Code\WMS\WMS\bin\System.Web.Webpages.Razor.xml
+D:\Projects\13 sep 2017\Work Monitoring System - 13 sep 12 pm\Server Code\WMS\WMS\bin\System.Web.Helpers.xml
+D:\Projects\13 sep 2017\Work Monitoring System - 13 sep 12 pm\Server Code\WMS\WMS\bin\System.Web.Mvc.xml
+D:\Projects\13 sep 2017\Work Monitoring System - 13 sep 12 pm\Server Code\WMS\WMS\obj\Debug\WMS.csprojResolveAssemblyReference.cache
+D:\Projects\13 sep 2017\Work Monitoring System - 13 sep 12 pm\Server Code\WMS\WMS\obj\Debug\WMS.dll
+D:\Projects\13 sep 2017\Work Monitoring System - 13 sep 12 pm\Server Code\WMS\WMS\obj\Debug\WMS.pdb
+D:\share\WMS\WMS\bin\roslyn\csc.exe
+D:\share\WMS\WMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\share\WMS\WMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\share\WMS\WMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\share\WMS\WMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\share\WMS\WMS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\share\WMS\WMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\share\WMS\WMS\bin\roslyn\System.Collections.Immutable.dll
+D:\share\WMS\WMS\bin\roslyn\System.Reflection.Metadata.dll
+D:\share\WMS\WMS\bin\roslyn\vbc.exe
+D:\share\WMS\WMS\bin\roslyn\VBCSCompiler.exe
+D:\share\WMS\WMS\bin\roslyn\VBCSCompiler.exe.config
+D:\share\WMS\WMS\bin\WMS.dll.config
+D:\share\WMS\WMS\bin\WMS.dll
+D:\share\WMS\WMS\bin\WMS.pdb
+D:\share\WMS\WMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\share\WMS\WMS\bin\System.Web.Helpers.dll
+D:\share\WMS\WMS\bin\System.Web.Mvc.dll
+D:\share\WMS\WMS\bin\System.Web.Razor.dll
+D:\share\WMS\WMS\bin\System.Web.Webpages.Deployment.dll
+D:\share\WMS\WMS\bin\System.Web.Webpages.dll
+D:\share\WMS\WMS\bin\System.Web.Webpages.Razor.dll
+D:\share\WMS\WMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\share\WMS\WMS\bin\System.Web.Razor.xml
+D:\share\WMS\WMS\bin\System.Web.Webpages.xml
+D:\share\WMS\WMS\bin\System.Web.Webpages.Deployment.xml
+D:\share\WMS\WMS\bin\System.Web.Webpages.Razor.xml
+D:\share\WMS\WMS\bin\System.Web.Helpers.xml
+D:\share\WMS\WMS\bin\System.Web.Mvc.xml
+D:\share\WMS\WMS\obj\Debug\WMS.csprojResolveAssemblyReference.cache
+D:\share\WMS\WMS\obj\Debug\WMS.dll
+D:\share\WMS\WMS\obj\Debug\WMS.pdb
+D:\Projects\WMS\WMS\bin\roslyn\csc.exe
+D:\Projects\WMS\WMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\WMS\WMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\WMS\WMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\WMS\WMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\WMS\WMS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\WMS\WMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\WMS\WMS\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\WMS\WMS\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\WMS\WMS\bin\roslyn\vbc.exe
+D:\Projects\WMS\WMS\bin\roslyn\VBCSCompiler.exe
+D:\Projects\WMS\WMS\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\WMS\WMS\bin\WMS.dll.config
+D:\Projects\WMS\WMS\bin\WMS.dll
+D:\Projects\WMS\WMS\bin\WMS.pdb
+D:\Projects\WMS\WMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\WMS\WMS\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\WMS\WMS\bin\System.Web.Helpers.dll
+D:\Projects\WMS\WMS\bin\System.Web.Mvc.dll
+D:\Projects\WMS\WMS\bin\System.Web.Razor.dll
+D:\Projects\WMS\WMS\bin\System.Web.Webpages.Deployment.dll
+D:\Projects\WMS\WMS\bin\System.Web.Webpages.dll
+D:\Projects\WMS\WMS\bin\System.Web.Webpages.Razor.dll
+D:\Projects\WMS\WMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\WMS\WMS\bin\System.Web.Razor.xml
+D:\Projects\WMS\WMS\bin\System.Web.Webpages.xml
+D:\Projects\WMS\WMS\bin\System.Web.Webpages.Deployment.xml
+D:\Projects\WMS\WMS\bin\System.Web.Webpages.Razor.xml
+D:\Projects\WMS\WMS\bin\System.Web.Helpers.xml
+D:\Projects\WMS\WMS\bin\System.Web.Mvc.xml
+D:\Projects\WMS\WMS\obj\Debug\WMS.dll
+D:\Projects\WMS\WMS\obj\Debug\WMS.pdb
+D:\share\14 sep\WMS\WMS\bin\roslyn\csc.exe
+D:\share\14 sep\WMS\WMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\share\14 sep\WMS\WMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\share\14 sep\WMS\WMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\share\14 sep\WMS\WMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\share\14 sep\WMS\WMS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\share\14 sep\WMS\WMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\share\14 sep\WMS\WMS\bin\roslyn\System.Collections.Immutable.dll
+D:\share\14 sep\WMS\WMS\bin\roslyn\System.Reflection.Metadata.dll
+D:\share\14 sep\WMS\WMS\bin\roslyn\vbc.exe
+D:\share\14 sep\WMS\WMS\bin\roslyn\VBCSCompiler.exe
+D:\share\14 sep\WMS\WMS\bin\roslyn\VBCSCompiler.exe.config
+D:\share\14 sep\WMS\WMS\bin\WMS.dll.config
+D:\share\14 sep\WMS\WMS\bin\WMS.dll
+D:\share\14 sep\WMS\WMS\bin\WMS.pdb
+D:\share\14 sep\WMS\WMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\share\14 sep\WMS\WMS\bin\System.Web.Helpers.dll
+D:\share\14 sep\WMS\WMS\bin\System.Web.Mvc.dll
+D:\share\14 sep\WMS\WMS\bin\System.Web.Razor.dll
+D:\share\14 sep\WMS\WMS\bin\System.Web.Webpages.Deployment.dll
+D:\share\14 sep\WMS\WMS\bin\System.Web.Webpages.dll
+D:\share\14 sep\WMS\WMS\bin\System.Web.Webpages.Razor.dll
+D:\share\14 sep\WMS\WMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\share\14 sep\WMS\WMS\bin\System.Web.Razor.xml
+D:\share\14 sep\WMS\WMS\bin\System.Web.Webpages.xml
+D:\share\14 sep\WMS\WMS\bin\System.Web.Webpages.Deployment.xml
+D:\share\14 sep\WMS\WMS\bin\System.Web.Webpages.Razor.xml
+D:\share\14 sep\WMS\WMS\bin\System.Web.Helpers.xml
+D:\share\14 sep\WMS\WMS\bin\System.Web.Mvc.xml
+D:\share\14 sep\WMS\WMS\obj\Debug\WMS.csprojResolveAssemblyReference.cache
+D:\share\14 sep\WMS\WMS\obj\Debug\WMS.dll
+D:\share\14 sep\WMS\WMS\obj\Debug\WMS.pdb
+D:\Projects\14 sep 2017\WMS\WMS\bin\roslyn\csc.exe
+D:\Projects\14 sep 2017\WMS\WMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\14 sep 2017\WMS\WMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\14 sep 2017\WMS\WMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\14 sep 2017\WMS\WMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\14 sep 2017\WMS\WMS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\14 sep 2017\WMS\WMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\14 sep 2017\WMS\WMS\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\14 sep 2017\WMS\WMS\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\14 sep 2017\WMS\WMS\bin\roslyn\vbc.exe
+D:\Projects\14 sep 2017\WMS\WMS\bin\roslyn\VBCSCompiler.exe
+D:\Projects\14 sep 2017\WMS\WMS\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\14 sep 2017\WMS\WMS\bin\WMS.dll.config
+D:\Projects\14 sep 2017\WMS\WMS\bin\WMS.dll
+D:\Projects\14 sep 2017\WMS\WMS\bin\WMS.pdb
+D:\Projects\14 sep 2017\WMS\WMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\14 sep 2017\WMS\WMS\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\14 sep 2017\WMS\WMS\bin\System.Web.Helpers.dll
+D:\Projects\14 sep 2017\WMS\WMS\bin\System.Web.Mvc.dll
+D:\Projects\14 sep 2017\WMS\WMS\bin\System.Web.Razor.dll
+D:\Projects\14 sep 2017\WMS\WMS\bin\System.Web.Webpages.Deployment.dll
+D:\Projects\14 sep 2017\WMS\WMS\bin\System.Web.Webpages.dll
+D:\Projects\14 sep 2017\WMS\WMS\bin\System.Web.Webpages.Razor.dll
+D:\Projects\14 sep 2017\WMS\WMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\14 sep 2017\WMS\WMS\bin\System.Web.Razor.xml
+D:\Projects\14 sep 2017\WMS\WMS\bin\System.Web.Webpages.xml
+D:\Projects\14 sep 2017\WMS\WMS\bin\System.Web.Webpages.Deployment.xml
+D:\Projects\14 sep 2017\WMS\WMS\bin\System.Web.Webpages.Razor.xml
+D:\Projects\14 sep 2017\WMS\WMS\bin\System.Web.Helpers.xml
+D:\Projects\14 sep 2017\WMS\WMS\bin\System.Web.Mvc.xml
+D:\Projects\14 sep 2017\WMS\WMS\obj\Debug\WMS.dll
+D:\Projects\14 sep 2017\WMS\WMS\obj\Debug\WMS.pdb
+D:\Projects\14 sep 2017\WMS\WMS\obj\Debug\WMS.csprojResolveAssemblyReference.cache
+D:\Projects\15 sep 2017\WMS\WMS\bin\roslyn\csc.exe
+D:\Projects\15 sep 2017\WMS\WMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\15 sep 2017\WMS\WMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\15 sep 2017\WMS\WMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\15 sep 2017\WMS\WMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\15 sep 2017\WMS\WMS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\15 sep 2017\WMS\WMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\15 sep 2017\WMS\WMS\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\15 sep 2017\WMS\WMS\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\15 sep 2017\WMS\WMS\bin\roslyn\vbc.exe
+D:\Projects\15 sep 2017\WMS\WMS\bin\roslyn\VBCSCompiler.exe
+D:\Projects\15 sep 2017\WMS\WMS\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\15 sep 2017\WMS\WMS\bin\WMS.dll.config
+D:\Projects\15 sep 2017\WMS\WMS\bin\WMS.dll
+D:\Projects\15 sep 2017\WMS\WMS\bin\WMS.pdb
+D:\Projects\15 sep 2017\WMS\WMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\15 sep 2017\WMS\WMS\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\15 sep 2017\WMS\WMS\bin\System.Web.Helpers.dll
+D:\Projects\15 sep 2017\WMS\WMS\bin\System.Web.Mvc.dll
+D:\Projects\15 sep 2017\WMS\WMS\bin\System.Web.Razor.dll
+D:\Projects\15 sep 2017\WMS\WMS\bin\System.Web.Webpages.Deployment.dll
+D:\Projects\15 sep 2017\WMS\WMS\bin\System.Web.Webpages.dll
+D:\Projects\15 sep 2017\WMS\WMS\bin\System.Web.Webpages.Razor.dll
+D:\Projects\15 sep 2017\WMS\WMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\15 sep 2017\WMS\WMS\bin\System.Web.Razor.xml
+D:\Projects\15 sep 2017\WMS\WMS\bin\System.Web.Webpages.xml
+D:\Projects\15 sep 2017\WMS\WMS\bin\System.Web.Webpages.Deployment.xml
+D:\Projects\15 sep 2017\WMS\WMS\bin\System.Web.Webpages.Razor.xml
+D:\Projects\15 sep 2017\WMS\WMS\bin\System.Web.Helpers.xml
+D:\Projects\15 sep 2017\WMS\WMS\bin\System.Web.Mvc.xml
+D:\Projects\15 sep 2017\WMS\WMS\obj\Debug\WMS.dll
+D:\Projects\15 sep 2017\WMS\WMS\obj\Debug\WMS.pdb
+D:\Projects\15 sep 2017\WMS\WMS\obj\Debug\WMS.csprojResolveAssemblyReference.cache
+D:\Projects\Work Monitoring System\15 sep 2017\WMS\WMS\bin\roslyn\csc.exe
+D:\Projects\Work Monitoring System\15 sep 2017\WMS\WMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\Work Monitoring System\15 sep 2017\WMS\WMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\Work Monitoring System\15 sep 2017\WMS\WMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\Work Monitoring System\15 sep 2017\WMS\WMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\Work Monitoring System\15 sep 2017\WMS\WMS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\Work Monitoring System\15 sep 2017\WMS\WMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\Work Monitoring System\15 sep 2017\WMS\WMS\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\Work Monitoring System\15 sep 2017\WMS\WMS\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\Work Monitoring System\15 sep 2017\WMS\WMS\bin\roslyn\vbc.exe
+D:\Projects\Work Monitoring System\15 sep 2017\WMS\WMS\bin\roslyn\VBCSCompiler.exe
+D:\Projects\Work Monitoring System\15 sep 2017\WMS\WMS\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\Work Monitoring System\15 sep 2017\WMS\WMS\bin\WMS.dll.config
+D:\Projects\Work Monitoring System\15 sep 2017\WMS\WMS\bin\WMS.dll
+D:\Projects\Work Monitoring System\15 sep 2017\WMS\WMS\bin\WMS.pdb
+D:\Projects\Work Monitoring System\15 sep 2017\WMS\WMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\Work Monitoring System\15 sep 2017\WMS\WMS\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\Work Monitoring System\15 sep 2017\WMS\WMS\bin\System.Web.Helpers.dll
+D:\Projects\Work Monitoring System\15 sep 2017\WMS\WMS\bin\System.Web.Mvc.dll
+D:\Projects\Work Monitoring System\15 sep 2017\WMS\WMS\bin\System.Web.Razor.dll
+D:\Projects\Work Monitoring System\15 sep 2017\WMS\WMS\bin\System.Web.Webpages.Deployment.dll
+D:\Projects\Work Monitoring System\15 sep 2017\WMS\WMS\bin\System.Web.Webpages.dll
+D:\Projects\Work Monitoring System\15 sep 2017\WMS\WMS\bin\System.Web.Webpages.Razor.dll
+D:\Projects\Work Monitoring System\15 sep 2017\WMS\WMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\Work Monitoring System\15 sep 2017\WMS\WMS\bin\System.Web.Razor.xml
+D:\Projects\Work Monitoring System\15 sep 2017\WMS\WMS\bin\System.Web.Webpages.xml
+D:\Projects\Work Monitoring System\15 sep 2017\WMS\WMS\bin\System.Web.Webpages.Deployment.xml
+D:\Projects\Work Monitoring System\15 sep 2017\WMS\WMS\bin\System.Web.Webpages.Razor.xml
+D:\Projects\Work Monitoring System\15 sep 2017\WMS\WMS\bin\System.Web.Helpers.xml
+D:\Projects\Work Monitoring System\15 sep 2017\WMS\WMS\bin\System.Web.Mvc.xml
+D:\Projects\Work Monitoring System\15 sep 2017\WMS\WMS\obj\Debug\WMS.dll
+D:\Projects\Work Monitoring System\15 sep 2017\WMS\WMS\obj\Debug\WMS.pdb
+D:\Projects\Work Monitoring System\15 sep 2017\WMS\WMS\obj\Debug\WMS.csprojResolveAssemblyReference.cache
+D:\Projects\Work_Monitoring_System\2_Pre_RequirementAnalysis\2_POC\Web_App\Codes\WMS Funal Code 08 Jan(Final)\WMS\bin\roslyn\csc.exe
+D:\Projects\Work_Monitoring_System\2_Pre_RequirementAnalysis\2_POC\Web_App\Codes\WMS Funal Code 08 Jan(Final)\WMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\Work_Monitoring_System\2_Pre_RequirementAnalysis\2_POC\Web_App\Codes\WMS Funal Code 08 Jan(Final)\WMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\Work_Monitoring_System\2_Pre_RequirementAnalysis\2_POC\Web_App\Codes\WMS Funal Code 08 Jan(Final)\WMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\Work_Monitoring_System\2_Pre_RequirementAnalysis\2_POC\Web_App\Codes\WMS Funal Code 08 Jan(Final)\WMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\Work_Monitoring_System\2_Pre_RequirementAnalysis\2_POC\Web_App\Codes\WMS Funal Code 08 Jan(Final)\WMS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\Work_Monitoring_System\2_Pre_RequirementAnalysis\2_POC\Web_App\Codes\WMS Funal Code 08 Jan(Final)\WMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\Work_Monitoring_System\2_Pre_RequirementAnalysis\2_POC\Web_App\Codes\WMS Funal Code 08 Jan(Final)\WMS\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\Work_Monitoring_System\2_Pre_RequirementAnalysis\2_POC\Web_App\Codes\WMS Funal Code 08 Jan(Final)\WMS\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\Work_Monitoring_System\2_Pre_RequirementAnalysis\2_POC\Web_App\Codes\WMS Funal Code 08 Jan(Final)\WMS\bin\roslyn\vbc.exe
+D:\Projects\Work_Monitoring_System\2_Pre_RequirementAnalysis\2_POC\Web_App\Codes\WMS Funal Code 08 Jan(Final)\WMS\bin\roslyn\VBCSCompiler.exe
+D:\Projects\Work_Monitoring_System\2_Pre_RequirementAnalysis\2_POC\Web_App\Codes\WMS Funal Code 08 Jan(Final)\WMS\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\Work_Monitoring_System\2_Pre_RequirementAnalysis\2_POC\Web_App\Codes\WMS Funal Code 08 Jan(Final)\WMS\bin\WMS.dll.config
+D:\Projects\Work_Monitoring_System\2_Pre_RequirementAnalysis\2_POC\Web_App\Codes\WMS Funal Code 08 Jan(Final)\WMS\bin\WMS.dll
+D:\Projects\Work_Monitoring_System\2_Pre_RequirementAnalysis\2_POC\Web_App\Codes\WMS Funal Code 08 Jan(Final)\WMS\bin\WMS.pdb
+D:\Projects\Work_Monitoring_System\2_Pre_RequirementAnalysis\2_POC\Web_App\Codes\WMS Funal Code 08 Jan(Final)\WMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\Work_Monitoring_System\2_Pre_RequirementAnalysis\2_POC\Web_App\Codes\WMS Funal Code 08 Jan(Final)\WMS\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\Work_Monitoring_System\2_Pre_RequirementAnalysis\2_POC\Web_App\Codes\WMS Funal Code 08 Jan(Final)\WMS\bin\System.Web.Helpers.dll
+D:\Projects\Work_Monitoring_System\2_Pre_RequirementAnalysis\2_POC\Web_App\Codes\WMS Funal Code 08 Jan(Final)\WMS\bin\System.Web.Mvc.dll
+D:\Projects\Work_Monitoring_System\2_Pre_RequirementAnalysis\2_POC\Web_App\Codes\WMS Funal Code 08 Jan(Final)\WMS\bin\System.Web.Razor.dll
+D:\Projects\Work_Monitoring_System\2_Pre_RequirementAnalysis\2_POC\Web_App\Codes\WMS Funal Code 08 Jan(Final)\WMS\bin\System.Web.Webpages.Deployment.dll
+D:\Projects\Work_Monitoring_System\2_Pre_RequirementAnalysis\2_POC\Web_App\Codes\WMS Funal Code 08 Jan(Final)\WMS\bin\System.Web.Webpages.dll
+D:\Projects\Work_Monitoring_System\2_Pre_RequirementAnalysis\2_POC\Web_App\Codes\WMS Funal Code 08 Jan(Final)\WMS\bin\System.Web.Webpages.Razor.dll
+D:\Projects\Work_Monitoring_System\2_Pre_RequirementAnalysis\2_POC\Web_App\Codes\WMS Funal Code 08 Jan(Final)\WMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\Work_Monitoring_System\2_Pre_RequirementAnalysis\2_POC\Web_App\Codes\WMS Funal Code 08 Jan(Final)\WMS\bin\System.Web.Razor.xml
+D:\Projects\Work_Monitoring_System\2_Pre_RequirementAnalysis\2_POC\Web_App\Codes\WMS Funal Code 08 Jan(Final)\WMS\bin\System.Web.Webpages.xml
+D:\Projects\Work_Monitoring_System\2_Pre_RequirementAnalysis\2_POC\Web_App\Codes\WMS Funal Code 08 Jan(Final)\WMS\bin\System.Web.Webpages.Deployment.xml
+D:\Projects\Work_Monitoring_System\2_Pre_RequirementAnalysis\2_POC\Web_App\Codes\WMS Funal Code 08 Jan(Final)\WMS\bin\System.Web.Webpages.Razor.xml
+D:\Projects\Work_Monitoring_System\2_Pre_RequirementAnalysis\2_POC\Web_App\Codes\WMS Funal Code 08 Jan(Final)\WMS\bin\System.Web.Helpers.xml
+D:\Projects\Work_Monitoring_System\2_Pre_RequirementAnalysis\2_POC\Web_App\Codes\WMS Funal Code 08 Jan(Final)\WMS\bin\System.Web.Mvc.xml
+D:\Projects\Work_Monitoring_System\2_Pre_RequirementAnalysis\2_POC\Web_App\Codes\WMS Funal Code 08 Jan(Final)\WMS\obj\Debug\WMS.dll
+D:\Projects\Work_Monitoring_System\2_Pre_RequirementAnalysis\2_POC\Web_App\Codes\WMS Funal Code 08 Jan(Final)\WMS\obj\Debug\WMS.pdb
+D:\Projects\Work_Monitoring_System_v2\Codes\WMS Code 13 Apr\WMS\bin\roslyn\csc.exe
+D:\Projects\Work_Monitoring_System_v2\Codes\WMS Code 13 Apr\WMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\WMS Code 13 Apr\WMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\WMS Code 13 Apr\WMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\WMS Code 13 Apr\WMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\WMS Code 13 Apr\WMS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\Work_Monitoring_System_v2\Codes\WMS Code 13 Apr\WMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\Work_Monitoring_System_v2\Codes\WMS Code 13 Apr\WMS\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\WMS Code 13 Apr\WMS\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\WMS Code 13 Apr\WMS\bin\roslyn\vbc.exe
+D:\Projects\Work_Monitoring_System_v2\Codes\WMS Code 13 Apr\WMS\bin\roslyn\VBCSCompiler.exe
+D:\Projects\Work_Monitoring_System_v2\Codes\WMS Code 13 Apr\WMS\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\Work_Monitoring_System_v2\Codes\WMS Code 13 Apr\WMS\bin\WMS.dll.config
+D:\Projects\Work_Monitoring_System_v2\Codes\WMS Code 13 Apr\WMS\bin\WMS.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\WMS Code 13 Apr\WMS\bin\WMS.pdb
+D:\Projects\Work_Monitoring_System_v2\Codes\WMS Code 13 Apr\WMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\WMS Code 13 Apr\WMS\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\WMS Code 13 Apr\WMS\bin\System.Web.Helpers.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\WMS Code 13 Apr\WMS\bin\System.Web.Mvc.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\WMS Code 13 Apr\WMS\bin\System.Web.Razor.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\WMS Code 13 Apr\WMS\bin\System.Web.Webpages.Deployment.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\WMS Code 13 Apr\WMS\bin\System.Web.Webpages.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\WMS Code 13 Apr\WMS\bin\System.Web.Webpages.Razor.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\WMS Code 13 Apr\WMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\WMS Code 13 Apr\WMS\bin\System.Web.Razor.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\WMS Code 13 Apr\WMS\bin\System.Web.Webpages.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\WMS Code 13 Apr\WMS\bin\System.Web.Webpages.Deployment.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\WMS Code 13 Apr\WMS\bin\System.Web.Webpages.Razor.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\WMS Code 13 Apr\WMS\bin\System.Web.Helpers.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\WMS Code 13 Apr\WMS\bin\System.Web.Mvc.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\WMS Code 13 Apr\WMS\obj\Debug\WMS.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\WMS Code 13 Apr\WMS\obj\Debug\WMS.pdb
+D:\Projects\Work_Monitoring_System_v2\Codes\WMS Code 13 Apr\WMS\obj\Debug\WMS.csprojResolveAssemblyReference.cache
+D:\Projects\Work_Monitoring_System_v2\Codes\WMS Code 20 Apr\WMS\bin\roslyn\csc.exe
+D:\Projects\Work_Monitoring_System_v2\Codes\WMS Code 20 Apr\WMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\WMS Code 20 Apr\WMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\WMS Code 20 Apr\WMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\WMS Code 20 Apr\WMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\WMS Code 20 Apr\WMS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\Work_Monitoring_System_v2\Codes\WMS Code 20 Apr\WMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\Work_Monitoring_System_v2\Codes\WMS Code 20 Apr\WMS\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\WMS Code 20 Apr\WMS\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\WMS Code 20 Apr\WMS\bin\roslyn\vbc.exe
+D:\Projects\Work_Monitoring_System_v2\Codes\WMS Code 20 Apr\WMS\bin\roslyn\VBCSCompiler.exe
+D:\Projects\Work_Monitoring_System_v2\Codes\WMS Code 20 Apr\WMS\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\Work_Monitoring_System_v2\Codes\WMS Code 20 Apr\WMS\bin\WMS.dll.config
+D:\Projects\Work_Monitoring_System_v2\Codes\WMS Code 20 Apr\WMS\bin\WMS.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\WMS Code 20 Apr\WMS\bin\WMS.pdb
+D:\Projects\Work_Monitoring_System_v2\Codes\WMS Code 20 Apr\WMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\WMS Code 20 Apr\WMS\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\WMS Code 20 Apr\WMS\bin\System.Web.Helpers.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\WMS Code 20 Apr\WMS\bin\System.Web.Mvc.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\WMS Code 20 Apr\WMS\bin\System.Web.Razor.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\WMS Code 20 Apr\WMS\bin\System.Web.Webpages.Deployment.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\WMS Code 20 Apr\WMS\bin\System.Web.Webpages.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\WMS Code 20 Apr\WMS\bin\System.Web.Webpages.Razor.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\WMS Code 20 Apr\WMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\WMS Code 20 Apr\WMS\bin\System.Web.Razor.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\WMS Code 20 Apr\WMS\bin\System.Web.Webpages.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\WMS Code 20 Apr\WMS\bin\System.Web.Webpages.Deployment.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\WMS Code 20 Apr\WMS\bin\System.Web.Webpages.Razor.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\WMS Code 20 Apr\WMS\bin\System.Web.Helpers.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\WMS Code 20 Apr\WMS\bin\System.Web.Mvc.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\WMS Code 20 Apr\WMS\obj\Debug\WMS.csprojResolveAssemblyReference.cache
+D:\Projects\Work_Monitoring_System_v2\Codes\WMS Code 20 Apr\WMS\obj\Debug\WMS.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\WMS Code 20 Apr\WMS\obj\Debug\WMS.pdb
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\02-05-2018\WMS Code\WMS\bin\roslyn\csc.exe
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\02-05-2018\WMS Code\WMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\02-05-2018\WMS Code\WMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\02-05-2018\WMS Code\WMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\02-05-2018\WMS Code\WMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\02-05-2018\WMS Code\WMS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\02-05-2018\WMS Code\WMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\02-05-2018\WMS Code\WMS\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\02-05-2018\WMS Code\WMS\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\02-05-2018\WMS Code\WMS\bin\roslyn\vbc.exe
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\02-05-2018\WMS Code\WMS\bin\roslyn\VBCSCompiler.exe
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\02-05-2018\WMS Code\WMS\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\02-05-2018\WMS Code\WMS\bin\WMS.dll.config
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\02-05-2018\WMS Code\WMS\bin\WMS.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\02-05-2018\WMS Code\WMS\bin\WMS.pdb
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\02-05-2018\WMS Code\WMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\02-05-2018\WMS Code\WMS\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\02-05-2018\WMS Code\WMS\bin\System.Web.Helpers.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\02-05-2018\WMS Code\WMS\bin\System.Web.Mvc.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\02-05-2018\WMS Code\WMS\bin\System.Web.Razor.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\02-05-2018\WMS Code\WMS\bin\System.Web.Webpages.Deployment.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\02-05-2018\WMS Code\WMS\bin\System.Web.Webpages.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\02-05-2018\WMS Code\WMS\bin\System.Web.Webpages.Razor.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\02-05-2018\WMS Code\WMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\02-05-2018\WMS Code\WMS\bin\System.Web.Razor.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\02-05-2018\WMS Code\WMS\bin\System.Web.Webpages.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\02-05-2018\WMS Code\WMS\bin\System.Web.Webpages.Deployment.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\02-05-2018\WMS Code\WMS\bin\System.Web.Webpages.Razor.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\02-05-2018\WMS Code\WMS\bin\System.Web.Helpers.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\02-05-2018\WMS Code\WMS\bin\System.Web.Mvc.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\02-05-2018\WMS Code\WMS\obj\Debug\WMS.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\02-05-2018\WMS Code\WMS\obj\Debug\WMS.pdb
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\02-05-2018\WMS Code\WMS\obj\Debug\WMS.csprojResolveAssemblyReference.cache
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\03-05-2018\WMS Code\WMS\bin\roslyn\csc.exe
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\03-05-2018\WMS Code\WMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\03-05-2018\WMS Code\WMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\03-05-2018\WMS Code\WMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\03-05-2018\WMS Code\WMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\03-05-2018\WMS Code\WMS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\03-05-2018\WMS Code\WMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\03-05-2018\WMS Code\WMS\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\03-05-2018\WMS Code\WMS\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\03-05-2018\WMS Code\WMS\bin\roslyn\vbc.exe
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\03-05-2018\WMS Code\WMS\bin\roslyn\VBCSCompiler.exe
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\03-05-2018\WMS Code\WMS\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\03-05-2018\WMS Code\WMS\bin\WMS.dll.config
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\03-05-2018\WMS Code\WMS\bin\WMS.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\03-05-2018\WMS Code\WMS\bin\WMS.pdb
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\03-05-2018\WMS Code\WMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\03-05-2018\WMS Code\WMS\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\03-05-2018\WMS Code\WMS\bin\System.Web.Helpers.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\03-05-2018\WMS Code\WMS\bin\System.Web.Mvc.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\03-05-2018\WMS Code\WMS\bin\System.Web.Razor.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\03-05-2018\WMS Code\WMS\bin\System.Web.Webpages.Deployment.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\03-05-2018\WMS Code\WMS\bin\System.Web.Webpages.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\03-05-2018\WMS Code\WMS\bin\System.Web.Webpages.Razor.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\03-05-2018\WMS Code\WMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\03-05-2018\WMS Code\WMS\bin\System.Web.Razor.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\03-05-2018\WMS Code\WMS\bin\System.Web.Webpages.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\03-05-2018\WMS Code\WMS\bin\System.Web.Webpages.Deployment.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\03-05-2018\WMS Code\WMS\bin\System.Web.Webpages.Razor.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\03-05-2018\WMS Code\WMS\bin\System.Web.Helpers.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\03-05-2018\WMS Code\WMS\bin\System.Web.Mvc.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\03-05-2018\WMS Code\WMS\obj\Debug\WMS.csprojResolveAssemblyReference.cache
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\03-05-2018\WMS Code\WMS\obj\Debug\WMS.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\03-05-2018\WMS Code\WMS\obj\Debug\WMS.pdb
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\04-05-2018\WMS Code\WMS\bin\roslyn\csc.exe
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\04-05-2018\WMS Code\WMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\04-05-2018\WMS Code\WMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\04-05-2018\WMS Code\WMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\04-05-2018\WMS Code\WMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\04-05-2018\WMS Code\WMS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\04-05-2018\WMS Code\WMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\04-05-2018\WMS Code\WMS\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\04-05-2018\WMS Code\WMS\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\04-05-2018\WMS Code\WMS\bin\roslyn\vbc.exe
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\04-05-2018\WMS Code\WMS\bin\roslyn\VBCSCompiler.exe
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\04-05-2018\WMS Code\WMS\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\04-05-2018\WMS Code\WMS\bin\WMS.dll.config
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\04-05-2018\WMS Code\WMS\bin\WMS.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\04-05-2018\WMS Code\WMS\bin\WMS.pdb
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\04-05-2018\WMS Code\WMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\04-05-2018\WMS Code\WMS\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\04-05-2018\WMS Code\WMS\bin\System.Web.Helpers.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\04-05-2018\WMS Code\WMS\bin\System.Web.Mvc.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\04-05-2018\WMS Code\WMS\bin\System.Web.Razor.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\04-05-2018\WMS Code\WMS\bin\System.Web.Webpages.Deployment.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\04-05-2018\WMS Code\WMS\bin\System.Web.Webpages.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\04-05-2018\WMS Code\WMS\bin\System.Web.Webpages.Razor.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\04-05-2018\WMS Code\WMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\04-05-2018\WMS Code\WMS\bin\System.Web.Razor.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\04-05-2018\WMS Code\WMS\bin\System.Web.Webpages.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\04-05-2018\WMS Code\WMS\bin\System.Web.Webpages.Deployment.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\04-05-2018\WMS Code\WMS\bin\System.Web.Webpages.Razor.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\04-05-2018\WMS Code\WMS\bin\System.Web.Helpers.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\04-05-2018\WMS Code\WMS\bin\System.Web.Mvc.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\04-05-2018\WMS Code\WMS\obj\Debug\WMS.csprojResolveAssemblyReference.cache
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\04-05-2018\WMS Code\WMS\obj\Debug\WMS.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\04-05-2018\WMS Code\WMS\obj\Debug\WMS.pdb
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\06-05-2018\WMS Code\WMS\bin\roslyn\csc.exe
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\06-05-2018\WMS Code\WMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\06-05-2018\WMS Code\WMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\06-05-2018\WMS Code\WMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\06-05-2018\WMS Code\WMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\06-05-2018\WMS Code\WMS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\06-05-2018\WMS Code\WMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\06-05-2018\WMS Code\WMS\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\06-05-2018\WMS Code\WMS\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\06-05-2018\WMS Code\WMS\bin\roslyn\vbc.exe
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\06-05-2018\WMS Code\WMS\bin\roslyn\VBCSCompiler.exe
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\06-05-2018\WMS Code\WMS\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\06-05-2018\WMS Code\WMS\bin\WMS.dll.config
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\06-05-2018\WMS Code\WMS\bin\WMS.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\06-05-2018\WMS Code\WMS\bin\WMS.pdb
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\06-05-2018\WMS Code\WMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\06-05-2018\WMS Code\WMS\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\06-05-2018\WMS Code\WMS\bin\System.Web.Helpers.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\06-05-2018\WMS Code\WMS\bin\System.Web.Mvc.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\06-05-2018\WMS Code\WMS\bin\System.Web.Razor.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\06-05-2018\WMS Code\WMS\bin\System.Web.Webpages.Deployment.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\06-05-2018\WMS Code\WMS\bin\System.Web.Webpages.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\06-05-2018\WMS Code\WMS\bin\System.Web.Webpages.Razor.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\06-05-2018\WMS Code\WMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\06-05-2018\WMS Code\WMS\bin\System.Web.Razor.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\06-05-2018\WMS Code\WMS\bin\System.Web.Webpages.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\06-05-2018\WMS Code\WMS\bin\System.Web.Webpages.Deployment.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\06-05-2018\WMS Code\WMS\bin\System.Web.Webpages.Razor.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\06-05-2018\WMS Code\WMS\bin\System.Web.Helpers.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\06-05-2018\WMS Code\WMS\bin\System.Web.Mvc.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\06-05-2018\WMS Code\WMS\obj\Debug\WMS.csprojResolveAssemblyReference.cache
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\06-05-2018\WMS Code\WMS\obj\Debug\WMS.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\06-05-2018\WMS Code\WMS\obj\Debug\WMS.pdb
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\08-05-2018\WMS Code\WMS\bin\roslyn\csc.exe
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\08-05-2018\WMS Code\WMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\08-05-2018\WMS Code\WMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\08-05-2018\WMS Code\WMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\08-05-2018\WMS Code\WMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\08-05-2018\WMS Code\WMS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\08-05-2018\WMS Code\WMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\08-05-2018\WMS Code\WMS\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\08-05-2018\WMS Code\WMS\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\08-05-2018\WMS Code\WMS\bin\roslyn\vbc.exe
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\08-05-2018\WMS Code\WMS\bin\roslyn\VBCSCompiler.exe
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\08-05-2018\WMS Code\WMS\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\08-05-2018\WMS Code\WMS\bin\WMS.dll.config
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\08-05-2018\WMS Code\WMS\bin\WMS.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\08-05-2018\WMS Code\WMS\bin\WMS.pdb
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\08-05-2018\WMS Code\WMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\08-05-2018\WMS Code\WMS\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\08-05-2018\WMS Code\WMS\bin\System.Web.Helpers.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\08-05-2018\WMS Code\WMS\bin\System.Web.Mvc.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\08-05-2018\WMS Code\WMS\bin\System.Web.Razor.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\08-05-2018\WMS Code\WMS\bin\System.Web.Webpages.Deployment.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\08-05-2018\WMS Code\WMS\bin\System.Web.Webpages.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\08-05-2018\WMS Code\WMS\bin\System.Web.Webpages.Razor.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\08-05-2018\WMS Code\WMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\08-05-2018\WMS Code\WMS\bin\System.Web.Razor.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\08-05-2018\WMS Code\WMS\bin\System.Web.Webpages.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\08-05-2018\WMS Code\WMS\bin\System.Web.Webpages.Deployment.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\08-05-2018\WMS Code\WMS\bin\System.Web.Webpages.Razor.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\08-05-2018\WMS Code\WMS\bin\System.Web.Helpers.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\08-05-2018\WMS Code\WMS\bin\System.Web.Mvc.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\08-05-2018\WMS Code\WMS\obj\Debug\WMS.csprojResolveAssemblyReference.cache
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\08-05-2018\WMS Code\WMS\obj\Debug\WMS.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\08-05-2018\WMS Code\WMS\obj\Debug\WMS.pdb
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\10-05-2018\WMS Code\WMS\bin\roslyn\csc.exe
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\10-05-2018\WMS Code\WMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\10-05-2018\WMS Code\WMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\10-05-2018\WMS Code\WMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\10-05-2018\WMS Code\WMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\10-05-2018\WMS Code\WMS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\10-05-2018\WMS Code\WMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\10-05-2018\WMS Code\WMS\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\10-05-2018\WMS Code\WMS\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\10-05-2018\WMS Code\WMS\bin\roslyn\vbc.exe
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\10-05-2018\WMS Code\WMS\bin\roslyn\VBCSCompiler.exe
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\10-05-2018\WMS Code\WMS\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\10-05-2018\WMS Code\WMS\bin\WMS.dll.config
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\10-05-2018\WMS Code\WMS\bin\WMS.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\10-05-2018\WMS Code\WMS\bin\WMS.pdb
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\10-05-2018\WMS Code\WMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\10-05-2018\WMS Code\WMS\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\10-05-2018\WMS Code\WMS\bin\System.Web.Helpers.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\10-05-2018\WMS Code\WMS\bin\System.Web.Mvc.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\10-05-2018\WMS Code\WMS\bin\System.Web.Razor.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\10-05-2018\WMS Code\WMS\bin\System.Web.Webpages.Deployment.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\10-05-2018\WMS Code\WMS\bin\System.Web.Webpages.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\10-05-2018\WMS Code\WMS\bin\System.Web.Webpages.Razor.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\10-05-2018\WMS Code\WMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\10-05-2018\WMS Code\WMS\bin\System.Web.Razor.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\10-05-2018\WMS Code\WMS\bin\System.Web.Webpages.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\10-05-2018\WMS Code\WMS\bin\System.Web.Webpages.Deployment.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\10-05-2018\WMS Code\WMS\bin\System.Web.Webpages.Razor.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\10-05-2018\WMS Code\WMS\bin\System.Web.Helpers.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\10-05-2018\WMS Code\WMS\bin\System.Web.Mvc.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\10-05-2018\WMS Code\WMS\obj\Debug\WMS.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\10-05-2018\WMS Code\WMS\obj\Debug\WMS.pdb
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\10-05-2018\WMS Code\WMS\obj\Debug\WMS.csprojResolveAssemblyReference.cache
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\11-05-2018\WMS Code\WMS\bin\roslyn\csc.exe
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\11-05-2018\WMS Code\WMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\11-05-2018\WMS Code\WMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\11-05-2018\WMS Code\WMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\11-05-2018\WMS Code\WMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\11-05-2018\WMS Code\WMS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\11-05-2018\WMS Code\WMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\11-05-2018\WMS Code\WMS\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\11-05-2018\WMS Code\WMS\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\11-05-2018\WMS Code\WMS\bin\roslyn\vbc.exe
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\11-05-2018\WMS Code\WMS\bin\roslyn\VBCSCompiler.exe
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\11-05-2018\WMS Code\WMS\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\11-05-2018\WMS Code\WMS\bin\WMS.dll.config
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\11-05-2018\WMS Code\WMS\bin\WMS.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\11-05-2018\WMS Code\WMS\bin\WMS.pdb
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\11-05-2018\WMS Code\WMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\11-05-2018\WMS Code\WMS\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\11-05-2018\WMS Code\WMS\bin\System.Web.Helpers.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\11-05-2018\WMS Code\WMS\bin\System.Web.Mvc.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\11-05-2018\WMS Code\WMS\bin\System.Web.Razor.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\11-05-2018\WMS Code\WMS\bin\System.Web.Webpages.Deployment.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\11-05-2018\WMS Code\WMS\bin\System.Web.Webpages.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\11-05-2018\WMS Code\WMS\bin\System.Web.Webpages.Razor.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\11-05-2018\WMS Code\WMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\11-05-2018\WMS Code\WMS\bin\System.Web.Razor.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\11-05-2018\WMS Code\WMS\bin\System.Web.Webpages.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\11-05-2018\WMS Code\WMS\bin\System.Web.Webpages.Deployment.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\11-05-2018\WMS Code\WMS\bin\System.Web.Webpages.Razor.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\11-05-2018\WMS Code\WMS\bin\System.Web.Helpers.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\11-05-2018\WMS Code\WMS\bin\System.Web.Mvc.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\11-05-2018\WMS Code\WMS\obj\Debug\WMS.csprojResolveAssemblyReference.cache
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\11-05-2018\WMS Code\WMS\obj\Debug\WMS.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\11-05-2018\WMS Code\WMS\obj\Debug\WMS.pdb
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\14-05-2018\WMS Code\WMS\bin\roslyn\csc.exe
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\14-05-2018\WMS Code\WMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\14-05-2018\WMS Code\WMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\14-05-2018\WMS Code\WMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\14-05-2018\WMS Code\WMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\14-05-2018\WMS Code\WMS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\14-05-2018\WMS Code\WMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\14-05-2018\WMS Code\WMS\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\14-05-2018\WMS Code\WMS\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\14-05-2018\WMS Code\WMS\bin\roslyn\vbc.exe
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\14-05-2018\WMS Code\WMS\bin\roslyn\VBCSCompiler.exe
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\14-05-2018\WMS Code\WMS\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\14-05-2018\WMS Code\WMS\bin\WMS.dll.config
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\14-05-2018\WMS Code\WMS\bin\WMS.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\14-05-2018\WMS Code\WMS\bin\WMS.pdb
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\14-05-2018\WMS Code\WMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\14-05-2018\WMS Code\WMS\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\14-05-2018\WMS Code\WMS\bin\System.Web.Helpers.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\14-05-2018\WMS Code\WMS\bin\System.Web.Mvc.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\14-05-2018\WMS Code\WMS\bin\System.Web.Razor.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\14-05-2018\WMS Code\WMS\bin\System.Web.Webpages.Deployment.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\14-05-2018\WMS Code\WMS\bin\System.Web.Webpages.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\14-05-2018\WMS Code\WMS\bin\System.Web.Webpages.Razor.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\14-05-2018\WMS Code\WMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\14-05-2018\WMS Code\WMS\bin\System.Web.Razor.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\14-05-2018\WMS Code\WMS\bin\System.Web.Webpages.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\14-05-2018\WMS Code\WMS\bin\System.Web.Webpages.Deployment.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\14-05-2018\WMS Code\WMS\bin\System.Web.Webpages.Razor.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\14-05-2018\WMS Code\WMS\bin\System.Web.Helpers.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\14-05-2018\WMS Code\WMS\bin\System.Web.Mvc.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\14-05-2018\WMS Code\WMS\obj\Debug\WMS.csprojResolveAssemblyReference.cache
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\14-05-2018\WMS Code\WMS\obj\Debug\WMS.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\14-05-2018\WMS Code\WMS\obj\Debug\WMS.pdb
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\15-05-2018\WMS Code\WMS\bin\roslyn\csc.exe
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\15-05-2018\WMS Code\WMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\15-05-2018\WMS Code\WMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\15-05-2018\WMS Code\WMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\15-05-2018\WMS Code\WMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\15-05-2018\WMS Code\WMS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\15-05-2018\WMS Code\WMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\15-05-2018\WMS Code\WMS\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\15-05-2018\WMS Code\WMS\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\15-05-2018\WMS Code\WMS\bin\roslyn\vbc.exe
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\15-05-2018\WMS Code\WMS\bin\roslyn\VBCSCompiler.exe
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\15-05-2018\WMS Code\WMS\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\15-05-2018\WMS Code\WMS\bin\WMS.dll.config
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\15-05-2018\WMS Code\WMS\bin\WMS.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\15-05-2018\WMS Code\WMS\bin\WMS.pdb
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\15-05-2018\WMS Code\WMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\15-05-2018\WMS Code\WMS\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\15-05-2018\WMS Code\WMS\bin\System.Web.Helpers.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\15-05-2018\WMS Code\WMS\bin\System.Web.Mvc.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\15-05-2018\WMS Code\WMS\bin\System.Web.Razor.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\15-05-2018\WMS Code\WMS\bin\System.Web.Webpages.Deployment.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\15-05-2018\WMS Code\WMS\bin\System.Web.Webpages.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\15-05-2018\WMS Code\WMS\bin\System.Web.Webpages.Razor.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\15-05-2018\WMS Code\WMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\15-05-2018\WMS Code\WMS\bin\System.Web.Razor.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\15-05-2018\WMS Code\WMS\bin\System.Web.Webpages.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\15-05-2018\WMS Code\WMS\bin\System.Web.Webpages.Deployment.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\15-05-2018\WMS Code\WMS\bin\System.Web.Webpages.Razor.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\15-05-2018\WMS Code\WMS\bin\System.Web.Helpers.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\15-05-2018\WMS Code\WMS\bin\System.Web.Mvc.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\15-05-2018\WMS Code\WMS\obj\Debug\WMS.csprojResolveAssemblyReference.cache
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\15-05-2018\WMS Code\WMS\obj\Debug\WMS.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\15-05-2018\WMS Code\WMS\obj\Debug\WMS.pdb
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\16-05-2018\WMS Code\WMS\bin\roslyn\csc.exe
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\16-05-2018\WMS Code\WMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\16-05-2018\WMS Code\WMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\16-05-2018\WMS Code\WMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\16-05-2018\WMS Code\WMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\16-05-2018\WMS Code\WMS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\16-05-2018\WMS Code\WMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\16-05-2018\WMS Code\WMS\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\16-05-2018\WMS Code\WMS\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\16-05-2018\WMS Code\WMS\bin\roslyn\vbc.exe
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\16-05-2018\WMS Code\WMS\bin\roslyn\VBCSCompiler.exe
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\16-05-2018\WMS Code\WMS\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\16-05-2018\WMS Code\WMS\bin\WMS.dll.config
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\16-05-2018\WMS Code\WMS\bin\WMS.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\16-05-2018\WMS Code\WMS\bin\WMS.pdb
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\16-05-2018\WMS Code\WMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\16-05-2018\WMS Code\WMS\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\16-05-2018\WMS Code\WMS\bin\System.Web.Helpers.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\16-05-2018\WMS Code\WMS\bin\System.Web.Mvc.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\16-05-2018\WMS Code\WMS\bin\System.Web.Razor.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\16-05-2018\WMS Code\WMS\bin\System.Web.Webpages.Deployment.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\16-05-2018\WMS Code\WMS\bin\System.Web.Webpages.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\16-05-2018\WMS Code\WMS\bin\System.Web.Webpages.Razor.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\16-05-2018\WMS Code\WMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\16-05-2018\WMS Code\WMS\bin\System.Web.Razor.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\16-05-2018\WMS Code\WMS\bin\System.Web.Webpages.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\16-05-2018\WMS Code\WMS\bin\System.Web.Webpages.Deployment.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\16-05-2018\WMS Code\WMS\bin\System.Web.Webpages.Razor.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\16-05-2018\WMS Code\WMS\bin\System.Web.Helpers.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\16-05-2018\WMS Code\WMS\bin\System.Web.Mvc.xml
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\16-05-2018\WMS Code\WMS\obj\Debug\WMS.csprojResolveAssemblyReference.cache
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\16-05-2018\WMS Code\WMS\obj\Debug\WMS.dll
+D:\Projects\Work_Monitoring_System_v2\Codes\Backend\16-05-2018\WMS Code\WMS\obj\Debug\WMS.pdb

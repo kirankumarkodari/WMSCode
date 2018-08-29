@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\Projects\Work_Monitoring_System_v2\Deployment</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>09/14/2017 10:13:47</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>09/14/2017 10:13:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>09/14/2017 10:13:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>09/14/2017 10:13:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>09/14/2017 10:13:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>09/14/2017 10:13:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>09/14/2017 10:13:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>09/14/2017 10:13:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>09/14/2017 10:13:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>09/14/2017 10:13:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>09/14/2017 10:13:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>09/14/2017 10:13:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>09/14/2017 10:13:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>09/14/2017 10:13:46</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>09/14/2017 10:13:44</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>09/14/2017 10:13:45</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>09/14/2017 10:13:43</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.Deployment.dll">
+      <publishTime>09/14/2017 10:13:44</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.dll">
+      <publishTime>09/14/2017 10:13:44</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.Razor.dll">
+      <publishTime>09/14/2017 10:13:44</publishTime>
+    </File>
+    <File Include="bin/WMS.dll">
+      <publishTime>05/23/2018 19:57:42</publishTime>
+    </File>
+    <File Include="Configurations.html">
+      <publishTime>05/16/2018 18:59:59</publishTime>
+    </File>
+    <File Include="Css/bootstrap-datetimepicker.css">
+      <publishTime>04/25/2018 12:27:35</publishTime>
+    </File>
+    <File Include="Css/bootstrap.min.css">
+      <publishTime>05/08/2018 12:23:11</publishTime>
+    </File>
+    <File Include="Css/Configurations.css">
+      <publishTime>05/21/2018 12:53:59</publishTime>
+    </File>
+    <File Include="Css/easydropdown.css">
+      <publishTime>11/08/2017 17:57:13</publishTime>
+    </File>
+    <File Include="Css/header.css">
+      <publishTime>05/19/2018 18:01:28</publishTime>
+    </File>
+    <File Include="Css/Help.css">
+      <publishTime>05/15/2018 15:17:00</publishTime>
+    </File>
+    <File Include="Css/liveimages.css">
+      <publishTime>05/22/2018 12:41:23</publishTime>
+    </File>
+    <File Include="Css/liveTimelapse.css">
+      <publishTime>05/21/2018 11:21:34</publishTime>
+    </File>
+    <File Include="Css/Old_images.css">
+      <publishTime>05/21/2018 16:42:01</publishTime>
+    </File>
+    <File Include="Css/Old_Timelapse.css">
+      <publishTime>05/21/2018 13:10:36</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>09/14/2017 15:37:20</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont.eot">
+      <publishTime>09/14/2017 10:18:58</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont.ttf">
+      <publishTime>09/14/2017 10:18:58</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont.woff">
+      <publishTime>09/14/2017 10:18:58</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont.woff2">
+      <publishTime>09/14/2017 10:18:58</publishTime>
+    </File>
+    <File Include="fonts/FontAwesome.otf">
+      <publishTime>09/14/2017 10:18:58</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>09/14/2017 10:18:58</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>09/14/2017 10:18:58</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>09/14/2017 10:18:58</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>09/14/2017 10:18:58</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>09/14/2017 10:18:58</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>09/14/2017 10:13:42</publishTime>
+    </File>
+    <File Include="Help.html">
+      <publishTime>05/21/2018 12:46:27</publishTime>
+    </File>
+    <File Include="Images/background.jpg">
+      <publishTime>04/26/2018 17:59:30</publishTime>
+    </File>
+    <File Include="Images/bg - Copy.jpg">
+      <publishTime>04/14/2018 17:02:43</publishTime>
+    </File>
+    <File Include="Images/bg-old.jpg">
+      <publishTime>04/14/2018 17:02:43</publishTime>
+    </File>
+    <File Include="Images/bg.jpg">
+      <publishTime>04/16/2018 15:47:23</publishTime>
+    </File>
+    <File Include="Images/bg_new_2.jpg">
+      <publishTime>05/19/2018 17:44:44</publishTime>
+    </File>
+    <File Include="Images/bg_org.jpg">
+      <publishTime>04/26/2018 18:06:22</publishTime>
+    </File>
+    <File Include="Images/img_loading.gif">
+      <publishTime>04/18/2018 12:39:00</publishTime>
+    </File>
+    <File Include="Images/load_lazy_img.gif">
+      <publishTime>10/27/2017 16:04:25</publishTime>
+    </File>
+    <File Include="Images/mb1.jpg">
+      <publishTime>04/26/2018 18:03:19</publishTime>
+    </File>
+    <File Include="Images/mqdefault.jpg">
+      <publishTime>04/30/2018 10:44:29</publishTime>
+    </File>
+    <File Include="Images/no-data-available-3.png">
+      <publishTime>04/14/2018 16:24:32</publishTime>
+    </File>
+    <File Include="Images/test.gif">
+      <publishTime>05/22/2018 12:48:01</publishTime>
+    </File>
+    <File Include="Images/test.jpg">
+      <publishTime>09/26/2017 14:44:59</publishTime>
+    </File>
+    <File Include="Index.html">
+      <publishTime>05/23/2018 19:34:01</publishTime>
+    </File>
+    <File Include="Js/bootstrap-datetimepicker.min.js">
+      <publishTime>04/25/2018 15:46:50</publishTime>
+    </File>
+    <File Include="Js/bootstrap.min.js">
+      <publishTime>05/08/2018 12:22:53</publishTime>
+    </File>
+    <File Include="Js/Configurations.js">
+      <publishTime>05/21/2018 12:05:30</publishTime>
+    </File>
+    <File Include="Js/header.js">
+      <publishTime>05/08/2018 12:22:53</publishTime>
+    </File>
+    <File Include="Js/jquery.lazyload.min.js">
+      <publishTime>04/24/2018 16:55:11</publishTime>
+    </File>
+    <File Include="Js/jquery.min.js">
+      <publishTime>05/08/2018 12:22:53</publishTime>
+    </File>
+    <File Include="Js/liveimages.js">
+      <publishTime>05/23/2018 13:16:31</publishTime>
+    </File>
+    <File Include="Js/liveTimelapse.js">
+      <publishTime>05/23/2018 19:57:19</publishTime>
+    </File>
+    <File Include="Js/Mobileswipe.js">
+      <publishTime>05/03/2018 14:38:25</publishTime>
+    </File>
+    <File Include="Js/moment.min.js">
+      <publishTime>09/14/2017 10:18:41</publishTime>
+    </File>
+    <File Include="Js/Oldimages.js">
+      <publishTime>05/22/2018 12:54:58</publishTime>
+    </File>
+    <File Include="Js/OldTimelapse.js">
+      <publishTime>05/21/2018 13:03:19</publishTime>
+    </File>
+    <File Include="Live-timelapse.html">
+      <publishTime>05/21/2018 18:03:03</publishTime>
+    </File>
+    <File Include="Old_Images.html">
+      <publishTime>05/22/2018 17:59:15</publishTime>
+    </File>
+    <File Include="Old_Timelapse.html">
+      <publishTime>05/21/2018 18:12:43</publishTime>
+    </File>
+    <File Include="Videos/test.mp4">
+      <publishTime>04/30/2018 17:50:01</publishTime>
+    </File>
+    <File Include="Views/web.config">
+      <publishTime>09/14/2017 10:13:42</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/23/2018 20:02:04</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
